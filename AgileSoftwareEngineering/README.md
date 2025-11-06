@@ -23,11 +23,10 @@
 ### Self-Training 自主訓練
 <details><summary>Reference Materials 參考資源</summary>
   
-+ [Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md)
- 
-+ [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)  
-  + [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)  
-+ [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)  
++ 🏆[Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md) 
++ [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)
+  + [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)
++ [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)
   + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
 + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
   + [Klartext: Sagen, was Sache ist. Machen, was weiterbringt. 2015](https://www.amazon.com/Klartext/dp/3869366583)  
