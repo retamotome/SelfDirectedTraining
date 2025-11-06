@@ -1,4 +1,4 @@
 # Self-Directed Training
 
-+ \[Agile and Software Engineering](AgileSoftwareEngineering/README.md)
++ [Agile and Software Engineering](AgileSoftwareEngineering/README.md)
 
