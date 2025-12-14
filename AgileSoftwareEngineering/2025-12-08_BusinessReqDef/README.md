@@ -2,7 +2,7 @@
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: YouTube<br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>商業需求定義｜從觀念到實務．完全攻略！|
+|<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>商業需求定義｜從觀念到實務．完全攻略！|
 
 ## Self-Training 自主訓練
 ### Requirement Identification

@@ -1,4 +1,4 @@
-# Agile Code Conduct 
+# Agile Code of Conduct 
 
 ## Statement for Employees  
 
