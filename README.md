@@ -1,12 +1,13 @@
 # Self-Directed Training
+## Agile and Software Engineering  
 | Video | Description | Date |
 |:----|:----------|:--|
 | [Lesson 01: Agile and Software Engineering 敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md) | 敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。 | 2025-11-09 |    
 | [Lesson 02: Business Requirement Definition 商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md) | 商業需求定義｜從觀念到實務．完全攻略！| 2025-12-08 |  
 | [Extremely Clean Code 極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md) | AI 無法超越的程式碼 |2025-05-07|  
   
-# Technology
-## AI
+## Technology
+### AI
 | Video | Description | Date |
 |:----|:----------|:--|
 |[我的天！AI又歪了！](Technology/AI/2025-12-13_AI-Ruined/README.md)|人類遇到 AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>本影片由真人真事改編。| 2025-12-13 |
