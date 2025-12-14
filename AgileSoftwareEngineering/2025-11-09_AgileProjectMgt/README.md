@@ -2,7 +2,7 @@
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank"></a>YouTube<br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。|
+|<a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。|
 
 ## Self-Training 自主訓練
 + [Agile Code of Conduct 敏捷行為守則](Material/CodeConduct.md)  
