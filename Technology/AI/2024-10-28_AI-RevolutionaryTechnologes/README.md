@@ -9,8 +9,14 @@
 2025-12-11 [史上第一次 AI 模型在外太空運行！NVIDIA 支持的新創 Starcloud 打破資料中心「地心引力」](https://techorange.com/2025/12/11/starcloud-trains-first-ai-model-in-space/)  
 
 ### Energy
+TED Speaker: [Taylor Wilson](https://www.ted.com/speakers/taylor_wilson)  
++ 2012-03-22 [Yup, I built a nuclear fusion reactor](https://www.youtube.com/watch?v=9B0PaSznWJE)  
++ 2013-04-30 [My radical plan for small nuclear fission reactors](https://www.youtube.com/watch?v=5HL1BEC024g&t=0)  
 2023-03-24 [核廢料變身鑽石電池　壽命28萬年充電寶可以扔了？](https://timenews.com.tw/%E3%80%90%E7%A7%91%E6%8A%80online%E3%80%91%E6%A0%B8%E5%BB%A2%E6%96%99%E8%AE%8A%E8%BA%AB%E9%91%BD%E7%9F%B3%E9%9B%BB%E6%B1%A0%E3%80%80%E5%A3%BD%E5%91%BD28%E5%B9%B4%E5%85%85%E9%9B%BB%E5%AF%B6%E5%8F%AF)  
 2024-09 [A Nuclear Nano-Diamond Battery, that Lasts For 28,000 Years](https://www.electricaltechnology.org/2024/09/nuclear-nano-diamond-battery.html)  
+
+### Storage 
+2026-01-09 [「5D 記憶晶體」來了：一片玻璃塞進 360TB，壽命竟直逼 138 億年？](https://www.bnext.com.tw/article/89747/5d-memory-crystal-eternal-data-storage-tech)   
 
 ### Game Engine
 2019-07-13 [【イメージムービー】Connect future ～5Gでつながる世界～（3分ver）](https://www.youtube.com/watch?v=XsGhldzNrjg)  
@@ -42,6 +48,9 @@ Passage M1000 預計將於 2025 年夏季上市。
 2025-09-05 [從資料到洞察：Graph RAG 如何改變企業 AI 策略？](https://www.find.org.tw/tech_obser/browse/f7dbbc70530c92ccf55017de31e5f2e7)  
 2024-11-13 [Graph RAG－RAG結合知識圖譜之技術解析及應用](https://www.moea.gov.tw/MNS/doit/industrytech/IndustryTech.aspx?menu_id=13545&it_id=563)  
 
+### Vision 
+[【イメージムービー】Connect future ～5Gでつながる世界～（3分ver）](https://www.youtube.com/watch?v=XsGhldzNrjg)  
++ [Chinese : 日本总务省发布5G时代概念宣传片：5G连接下的世界](https://www.youtube.com/watch?v=9BwAlU4WyZo&pp=ygUS5pel5pys57i95YuZ55yBIDVH)
 
 
 

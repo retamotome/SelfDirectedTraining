@@ -7,8 +7,8 @@
 ## Self-Training 自主訓練
 ### Requirement Identification
 Exploring Requirements, new version published in 2011.
-+ Exploring Requirements 1: Quality Before Design
-+ Exploring Requirements 2: First Steps into Design
++ [Exploring Requirements 1: Quality Before Design](https://www.amazon.com/Exploring-Requirements-Quality-Before-Design-ebook/dp/B005D1T9PS/)
++ [Exploring Requirements 2: First Steps into Design](https://www.amazon.com/Exploring-Requirements-First-Steps-Design-ebook/dp/B005D2B626/)
 + The Chinese version, based on the 1989 edition, has poor translation quality.
   + [從需求到設計：如何設計出客戶想要的產品](https://www.books.com.tw/products/0010767312)  
   + You can borrow the e-book from the national library: [國立公共資訊圖書館館藏查詢系統](https://ipac.nlpi.edu.tw/bookDetail/202105)   
