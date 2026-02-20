@@ -5,9 +5,9 @@
 |<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。  |
 
 ## Policy
-🏆[Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md) 
-All members of Agile teams are required to adhere to the Agile Code of Conduct, which underscores the importance of Independent Thinking and Autonomous Learning. Teams retain the discretion to implement alternative codes that align with their particular workflows. 
-所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。 
+🏆[Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md)   
+All members of Agile teams are required to adhere to the Agile Code of Conduct, which underscores the importance of Independent Thinking and Autonomous Learning. Teams retain the discretion to implement alternative codes that align with their particular workflows.   
+所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
 
 ## Self-Training 自主訓練
 + 2025-08-12 [後敏捷時代的組織再造：為何淘汰Scrum Master是第一步？AI與系統化賦能的實戰指南](https://www.find.org.tw/indus_trend/browse/09db48ac70d0e66e03f2d9c002c014cc)  
