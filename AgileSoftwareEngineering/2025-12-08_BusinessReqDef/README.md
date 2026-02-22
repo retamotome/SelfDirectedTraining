@@ -11,7 +11,7 @@
   + The Term to Use. 用詞選擇
 + Four Stages. 商業需求定義的四個階段
   + Identification. 識別
-    +  General Considerations. 通用考量項目
+  + General Considerations. 通用考量項目
   + Requirement Prioritization. 需求優先排序
   + Acceptance Test Initialization. 驗收測試初始化
 + Guideline and Example. 實戰指引
