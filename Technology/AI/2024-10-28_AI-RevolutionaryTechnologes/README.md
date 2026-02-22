@@ -4,7 +4,7 @@
 |:--|:----------|
 |<a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English 🟢 Japaness</sub><br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！|
 
-## News and Reference
+## News and Reference 參考資訊  
 ### Network
 2025-12-11 [史上第一次 AI 模型在外太空運行！NVIDIA 支持的新創 Starcloud 打破資料中心「地心引力」](https://techorange.com/2025/12/11/starcloud-trains-first-ai-model-in-space/)  
 

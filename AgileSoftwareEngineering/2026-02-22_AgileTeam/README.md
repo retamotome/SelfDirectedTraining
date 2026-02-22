@@ -1,10 +1,17 @@
-# Lesson 02: Agile Team：Identification and Management 敏捷團隊：識別與管理
+# Lesson 03: Agile Team：Identification and Management 敏捷團隊：識別與管理
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。  |
+|<a href="https://youtu.be/M8qdeStgckQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/M8qdeStgckQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。  |
 
-## Policy
+## Agenda 大綱  
++ Introduction. 引言  
++ Authority Matrix Framework. 權限矩陣框架  
++ ARCI Models. ARCI 模型  
++ Cynefin Framework. Cynefin 框架
++ Build an Agile Team. 建立敏捷團隊  
+
+## Policy 準則 
 🏆[Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md)   
 All members of Agile teams are required to adhere to the Agile Code of Conduct, which underscores the importance of Independent Thinking and Autonomous Learning. Teams retain the discretion to implement alternative codes that align with their particular workflows.   
 所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
@@ -14,7 +21,7 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)
   + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
 
-## News and Reference
+## News and Reference 參考資訊
 + [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)
   + [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)
 + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
