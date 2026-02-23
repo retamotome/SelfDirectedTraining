@@ -2,7 +2,7 @@
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/M8qdeStgckQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/M8qdeStgckQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。  |
+|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。  |
 
 ## Agenda 大綱  
 + Introduction. 引言  
