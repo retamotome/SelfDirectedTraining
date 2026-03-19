@@ -5,7 +5,16 @@
 | [Lesson 01: Agile and Software Engineering 敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md) | 敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。 | 2025-11-09 |    
 | [Lesson 02: Business Requirement Definition 商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md) | 商業需求定義｜從觀念到實務．完全攻略！| 2025-12-08 |  
 | [Lesson 03: Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
+
+
+### Software Development
+| Video | Description | Date |
+|:----|:----------|:--|
 | [Extremely Clean Code 極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md) | AI 無法超越的程式碼 |2025-05-07|  
+
+#### Resource
++ [Tianxing Yang's Readings](https://github.com/ytx-readings)  
+
   
 ## Technology
 ### AI
