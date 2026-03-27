@@ -20,6 +20,7 @@
 ### AI
 | Video | Description | Date |
 |:----|:----------|:--|
+|[AI 趨勢觀察](Technology/AI/2026-03-27_Live-with-AI/README.md)|市場機制、產業變革、人類世界的全面反思 | 2026-03-27 |
 |[我的天！AI又歪了！](Technology/AI/2025-12-13_AI-Ruined/README.md)|人類遇到 AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>本影片由真人真事改編。| 2025-12-13 |
 |[AI 風險管理（法律篇）](Technology/AI/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
 |[AI 的智力極限](Technology/AI/2024-11-05_The-Intellectual-Limits-of-AI/README.md)|5分鐘「降伏其心」｜為何 AI 無法取代人類| 2024-11-05 |
