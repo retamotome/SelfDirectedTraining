@@ -12,9 +12,6 @@
 |:----|:----------|:--|
 | [Extremely Clean Code 極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md) | AI 無法超越的程式碼 |2025-05-07|  
 
-#### Resource
-+ [Tianxing Yang's Readings](https://github.com/ytx-readings)  
-
   
 ## Technology
 ### AI
