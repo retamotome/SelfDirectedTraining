@@ -1,3 +1,4 @@
+
 # 撐起AI的5個革命性「台柱」
 ## Introduction Video 介紹影片
 | Video | Description |
@@ -13,6 +14,7 @@ TED Speaker: [Taylor Wilson](https://www.ted.com/speakers/taylor_wilson)
 + 2012-03-22 [Yup, I built a nuclear fusion reactor](https://www.youtube.com/watch?v=9B0PaSznWJE)  
 + 2013-04-30 [My radical plan for small nuclear fission reactors](https://www.youtube.com/watch?v=5HL1BEC024g&t=0)
 
+2026-04-02 [台達電的氫能豪賭！南科實驗室直擊：2個原因，押寶氫燃料電池「不發火的發電機」！](https://www.bnext.com.tw/article/90507/2026-delta-hydrogen)   
 2023-03-24 [核廢料變身鑽石電池　壽命28萬年充電寶可以扔了？](https://timenews.com.tw/%E3%80%90%E7%A7%91%E6%8A%80online%E3%80%91%E6%A0%B8%E5%BB%A2%E6%96%99%E8%AE%8A%E8%BA%AB%E9%91%BD%E7%9F%B3%E9%9B%BB%E6%B1%A0%E3%80%80%E5%A3%BD%E5%91%BD28%E5%B9%B4%E5%85%85%E9%9B%BB%E5%AF%B6%E5%8F%AF)  
 2024-09 [A Nuclear Nano-Diamond Battery, that Lasts For 28,000 Years](https://www.electricaltechnology.org/2024/09/nuclear-nano-diamond-battery.html)  
 
