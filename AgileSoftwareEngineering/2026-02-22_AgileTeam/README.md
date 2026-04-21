@@ -6,13 +6,13 @@
 
 ## Agenda 大綱  
 + Introduction. 引言  
-+ Authority Matrix Framework. 權限矩陣框架  
-+ ARCI Models. ARCI 模型  
-+ Cynefin Framework. Cynefin 框架
-+ Build an Agile Team. 建立敏捷團隊  
++ Authority Matrix Framework. (權限矩陣框架)  
++ ARCI Models. (4 種 ARCI 模型)  
++ Cynefin Framework. (Cynefin 情境框架)  
++ Build an Agile Team. (建立敏捷團隊)  
 
 ## Policy 準則 
-🏆[Agile Code Conduct 敏捷團隊行為守則](Material/CodeConduct.md)   
+🏆[Agile Code Conduct 敏捷團隊行為守則](../2025-11-09_AgileProjectMgt/Material/CodeConduct.md)   
 All members of Agile teams are required to adhere to the Agile Code of Conduct, which underscores the importance of Independent Thinking and Autonomous Learning. Teams retain the discretion to implement alternative codes that align with their particular workflows.   
 所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
 
@@ -22,6 +22,11 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
   + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
 
 ## News and Reference 參考資訊
++ 🏆何飛鵬筆記系列 
+	+ [自慢：社長的成長學習筆記](https://www.books.com.tw/products/0010785520)  
+	+ [自慢2：主管私房學](https://www.books.com.tw/products/0010790813)  
+	+ [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
+	+ [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
 + [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)
   + [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)
 + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
