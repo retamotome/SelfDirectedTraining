@@ -29,6 +29,7 @@ AI必須取代人類的工作類型
 產業變革  
 + 2026-03-24 [你以為技嘉只做主機板？在 AI 伺服器市場，它早就成為輝達點名的全球兩大供應商之一](https://www.managertoday.com.tw/articles/view/71890)  
 + 2026-01-14 [入選全球「人形機器人百強」！上銀科技的致勝心法：買不到的技術，就自己造](https://www.managertoday.com.tw/articles/view/7157)  
++ 2025-03-19 [無人計程車時代來臨！Waymo、特斯拉戰火升溫，2大巨頭的戰略佈局有何不同？](https://www.bnext.com.tw/article/82597/2025-waymo-and-tesla)  
 
 人生再進化  
 + 2026-04-14 [被誤解該怎麼辦？別人的失望，不是你的責任](https://www.managertoday.com.tw/books/view/72000)   
