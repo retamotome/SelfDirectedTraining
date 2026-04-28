@@ -34,6 +34,11 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
   + [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
 
+    
+2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
+2026-04-06 [沒經驗但潛力高 vs. 有經驗但潛力有限，你會錄取哪個？](https://www.managertoday.com.tw/columns/view/71959)  
+2026-04-03 [面試喝飲料也暗藏關卡？高管：10％ 求職者因一項「咖啡杯測試」默默被淘汰！](https://www.managertoday.com.tw/articles/view/71939)  
+2026-03-31 [職場不是交朋友的地方！帶人 20 年，我最常送給離職者的 8 個建議](https://www.managertoday.com.tw/articles/view/71935)  
 2026-03-06 [當品牌著火了，最可怕的敵人不是輿論，而是自己人！](https://www.managertoday.com.tw/columns/view/71807)  
 2026-03-05 [人才要的不只是薪水！做對這 5 件事，讓優秀員工捨不得離開](https://www.managertoday.com.tw/columns/view/71799)  
 2026-02-09 [忘掉 Google 那一套！你的 OKR 會失敗，是因為盲目照抄巨人的做法](https://www.managertoday.com.tw/columns/view/71718)  
@@ -41,5 +46,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 2026-01-22 [做得多不如做得對！學馬斯克的「減法工作」，3 招找回高產出](https://www.managertoday.com.tw/columns/view/71632)  
 2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
 2026-01-21 [諸葛亮：核心團隊裡一定要有 3 種親信](https://www.managertoday.com.tw/books/view/71610)  
+2019-06-06 [優秀員工默默在意的 16 件事，主管別輕忽！](https://www.managertoday.com.tw/articles/view/57773)  
+2017-10-13 [如何找尋適合組織的千里馬？向孔子學識人 3 層次](https://www.managertoday.com.tw/articles/view/55165)  
+
 
 
