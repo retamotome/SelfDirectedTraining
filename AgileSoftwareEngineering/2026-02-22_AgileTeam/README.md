@@ -1,4 +1,4 @@
-# Lesson 03: Agile Team：Identification and Management 敏捷團隊：識別與管理
+# Agile Team：Identification and Management 敏捷團隊：識別與管理
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
