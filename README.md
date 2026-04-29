@@ -42,8 +42,8 @@ Sharing life philosophy and personal reflections, exploring perspectives and ide
 
 | Video | Description | Date |
 |:----|:----------|:--|
-| [聖嚴法師的眾願成就理念之一： 四它](https://youtu.be/1yBwxDKRZQc) | 最直白精闢的解釋與例證｜人生苦海的真正原因。 |2025-05-07|  
-| [佛陀的策略課：四聖諦](https://youtu.be/Z-Ml2jpvTCQ) | 最直白精闢的究竟解脫之路｜安定自心的強大力量｜人生苦海的真正原因 |2025-05-07|  
+| [佛陀的策略課：四聖諦](https://youtu.be/Z-Ml2jpvTCQ) | 最直白精闢的究竟解脫之路｜安定自心的強大力量｜人生苦海的真正原因 | 2024-12-17 |  
+| [聖嚴法師的眾願成就理念之一： 四它](https://youtu.be/1yBwxDKRZQc) | 最直白精闢的解釋與例證｜人生苦海的真正原因。 | 2024-12-27 |  
 
 ---
   
