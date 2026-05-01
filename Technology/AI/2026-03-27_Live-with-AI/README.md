@@ -41,3 +41,14 @@ AI必須取代人類的工作類型
 + 2026-04-13 [拼命演好每個角色，心卻累透了？榮格心理學：中年，是活回自己的開始](https://www.managertoday.com.tw/eightylife/article/view/1830)   
 + 2026-03-11 [不辭職，也能活得像創業家！納瓦爾教你如何拿回「人生主導權」](https://www.managertoday.com.tw/columns/view/71816)  
 + 2026-03-02 [麥肯錫：你也是學歷頂尖、經歷有限的「輸送帶人才」嗎？](https://www.managertoday.com.tw/columns/view/71776)  
+
+---
+
+其他
++ AI Robot  機器人  
+	+ 2023-01-27 [以為魔鬼終結者 T-1000 機器人僅存在電影中？科學家已研發出可液化機器人](https://www.inside.com.tw/article/30536-phase-shifting-robot-innovation)  
+		+ 2023-03-07 [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)  
+		+ 2023-01-25 [Watch this liquid metal robot slink out of jail](https://www.science.org/content/article/watch-liquid-metal-robot-slink-out-jail?utm_medium=ownedSocial&utm_source=Twitter&utm_campaign=NewsfromScience)  
+	+ 2019-09-23 [Is Skynet really the future of Artificial Intelligence?](https://medium.datadriveninvestor.com/is-skynet-really-the-future-of-artificial-intelligence-83b7d6ad0d05)  
+	+ 2014-12-02 [Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540)  
+	
