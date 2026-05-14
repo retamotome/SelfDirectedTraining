@@ -8,7 +8,7 @@ For guidance on writing requirements, see [Writing Requirements Effectively](./W
 ## System Architecture 
 
 In software engineering, a system is often broadly divided into two parts: User Space (or Application Space) and Kernel Space.   
-When designing in **User Space**, factors like **variability** and **scalability** should be considered from the user's perspective. In **Kernel Space**, **stability** is the top priority, as it is the most critical requirement for the kernel. 
+When designing in **User Space**, factors like **variability** and **scalability** should be considered from the user's perspective. In **Kernel Space**, **stability** is the top priority, as it is the most critical requirement for the kernel.   
 There is **no** universal system architecture that fits all scenarios. In reality, **system architecture is influenced by user behavior, hardware constraints, physical environment, contractual limitations, compliance policies, and more**. 
 
 ## Build a Trouble-Shootable System 
@@ -63,9 +63,9 @@ System modes describe the overall operational context or intent of the system. E
         | Diagnostics             | Manual              | Utilities with product       | 
 
 
-    > [!note]   
-    > Diagnostic utilities should be delivered with the product for field troubleshooting.    
-    > Debug features are typically disabled in production builds to improve performance and security. 
+> [!note]    
+> Diagnostic utilities should be delivered with the product for field troubleshooting.    
+> Debug features are typically disabled in production builds to improve performance and security. 
 
 - **Maintenance Mode** 
 

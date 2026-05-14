@@ -26,7 +26,7 @@ Requirements are created following the approach in [Business Requirement Definit
 - **Error Handling** 
 
 These tables are then used to generate **acceptance** test cases in a **pseudocode-like** format, such as [Gherkin](https://cucumber.io/docs/gherkin/). Today, these can be run directly as tests using supported frameworks. This approach predates the term *“Vibe Coding”*. 
-In the **Identification** phase of [Business Requirement Definition](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md), use **5W1H** (Who, What, When, Where, Why, How) to clarify each requirement table. These are then expressed in pseudocode-like syntax, as shown below, to serve as corresponding **acceptance** test cases for the requirement. 
+In the **Identification** phase of [Business Requirement Definition](../../2025-12-08_BusinessReqDef/README.md), use **5W1H** (Who, What, When, Where, Why, How) to clarify each requirement table. These are then expressed in pseudocode-like syntax, as shown below, to serve as corresponding **acceptance** test cases for the requirement. 
 
 ### Pseudocode-Like Syntax Example (Gherkin) 
 
