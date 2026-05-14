@@ -34,7 +34,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
   + [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
 
-    
+2026-04-23 [為何有些主管能力一流，卻不會帶人？從「榮格心理學」找出領導者的決策盲點](https://www.managertoday.com.tw/columns/view/72028)  
+2026-04-23 [你對部屬提問的方式是為了「找答案」，還是「找戰犯」？](https://www.managertoday.com.tw/columns/view/72042)  
 2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
 2026-04-06 [沒經驗但潛力高 vs. 有經驗但潛力有限，你會錄取哪個？](https://www.managertoday.com.tw/columns/view/71959)  
 2026-04-03 [面試喝飲料也暗藏關卡？高管：10％ 求職者因一項「咖啡杯測試」默默被淘汰！](https://www.managertoday.com.tw/articles/view/71939)  
@@ -46,6 +47,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 2026-01-22 [做得多不如做得對！學馬斯克的「減法工作」，3 招找回高產出](https://www.managertoday.com.tw/columns/view/71632)  
 2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
 2026-01-21 [諸葛亮：核心團隊裡一定要有 3 種親信](https://www.managertoday.com.tw/books/view/71610)  
+2025-09-01 [組織被「恐懼」綁架了！麥肯錫揭：85% 高階主管的共同難題](https://www.managertoday.com.tw/books/view/70863)  
+2025-08-22 [員工績效不彰，光靠激勵沒用！主管該先檢視這15個問題](https://www.managertoday.com.tw/articles/view/53825)      
 2019-06-06 [優秀員工默默在意的 16 件事，主管別輕忽！](https://www.managertoday.com.tw/articles/view/57773)  
 2017-10-13 [如何找尋適合組織的千里馬？向孔子學識人 3 層次](https://www.managertoday.com.tw/articles/view/55165)  
 

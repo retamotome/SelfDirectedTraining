@@ -10,13 +10,16 @@
   + Explanation Form. 說明形式  
   + The Term to Use. 用詞選擇
 + Four Stages. 商業需求定義的四個階段
-  + Identification. 識別
-  + General Considerations. 通用考量項目
+  + [Identification. 識別](material/RequirementIdentification.md)
+  + [General Considerations. 通用考量項目](material/GeneralConsiderations.md)
   + Requirement Prioritization. 需求優先排序
   + Acceptance Test Initialization. 驗收測試初始化
 + Guideline and Example. 實戰指引
 
 ## Self-Training 自主訓練
++ 🏆 [System Requirement Definition Practical Tips](material/SysReqDefTip.md) 
++ 🏆 [Writing Requirements Effectively](material/WritingReq.md)
+
 ### Requirement Identification 需求識別
 Exploring Requirements, new version published in 2011.
 + [Exploring Requirements 1: Quality Before Design](https://www.amazon.com/Exploring-Requirements-Quality-Before-Design-ebook/dp/B005D1T9PS/)

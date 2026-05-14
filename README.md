@@ -20,7 +20,9 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 | Video | Description | Date |
 |:----|:----------|:--|
-| [Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
+|[Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-15_AIReflectMeasurement/README.md) | Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 | 2026-05-15 |
+|[Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
+|[AI 風險管理（法律篇）](Management/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
 
 ---
 
@@ -57,7 +59,7 @@ Exploring science and technology through knowledge sharing, in-depth analysis, a
 |:----|:----------|:--|
 |[AI 趨勢觀察](Technology/AI/2026-03-27_Live-with-AI/README.md)|市場機制、產業變革、人類世界的全面反思 | 2026-03-27 |
 |[我的天！AI又歪了！](Technology/AI/2025-12-13_AI-Ruined/README.md)|人類遇到 AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>本影片由真人真事改編。| 2025-12-13 |
-|[AI 風險管理（法律篇）](Technology/AI/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
+|[AI 風險管理（法律篇）](Management/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
 |[AI 的智力極限](Technology/AI/2024-11-05_The-Intellectual-Limits-of-AI/README.md)|5分鐘「降伏其心」｜為何 AI 無法取代人類| 2024-11-05 |
 |[撐起AI的5個革命性「台柱」](Technology/AI/2024-10-28_AI-RevolutionaryTechnologes/README.md)|晶片突破摩爾定律｜核廢料電池可發電2.8萬年！| 2024-10-28 |
 

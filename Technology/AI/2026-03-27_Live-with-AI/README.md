@@ -39,6 +39,7 @@ AI必須取代人類的工作類型
 + 2026-04-14 [被誤解該怎麼辦？別人的失望，不是你的責任](https://www.managertoday.com.tw/books/view/72000)   
 + 2026-04-14 [年少時放下的嚮往，你敢在中年後拾起嗎？史丹佛人生設計課教授的親身告白]( https://www.managertoday.com.tw/columns/view/72009)   
 + 2026-04-13 [拼命演好每個角色，心卻累透了？榮格心理學：中年，是活回自己的開始](https://www.managertoday.com.tw/eightylife/article/view/1830)   
++ 2026-03-17 [東京出發１小時的質感提案！講究派的靜岡之旅：茶香、職人魂、富士山絕景](https://www.managertoday.com.tw/eightylife/article/view/1997)  
 + 2026-03-11 [不辭職，也能活得像創業家！納瓦爾教你如何拿回「人生主導權」](https://www.managertoday.com.tw/columns/view/71816)  
 + 2026-03-02 [麥肯錫：你也是學歷頂尖、經歷有限的「輸送帶人才」嗎？](https://www.managertoday.com.tw/columns/view/71776)  
 
