@@ -32,11 +32,17 @@ Fortunately, Linux provides several mechanisms to capture system state (e.g., ke
 Always ensure that **at least 30% of system resources** (CPU, memory, disk, etc.) **remain available**, and **implement timely dumps** when sudden failures occur.   
 Note that memory dumps do **not** guarantee data is written to disk. Many enterprise-level high-performance drives use DRAM cache to speed up transfers, so data loss can occur if cached data is lost during a power failure.   
 
+## Build a Quality-Assurable System 
 
 ### System Mode and State 
 
 Understanding and clearly defining **System Modes** and **System States** is essential for robust requirement analysis. This ensures the system behaves predictably under all circumstances, supports troubleshooting, and meets both operational and safety requirements. 
- 
+
+> [!important] 
+> + A well-designed system should define at least three distinct Modes, each with its own set of States. (A system with only a single state is generally considered a poor design in software engineering.) 
+> + Both Modes and States should clearly **specify their respective capabilities and restrictions**. This approach is fundamental to building **quality-assurable** systems. 
+> + Properly defined Modes and States **control what the system is allowed to do**, rather than merely reflecting its current activity. 
+
 
 #### System Modes 
 
