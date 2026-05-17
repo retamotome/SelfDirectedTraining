@@ -1,7 +1,8 @@
 # Requirement Identification 需求識別
 
 > [!important]  
-> Requirement Identification 需求識別 © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+> ![BY NC ND](../../../img/by-nc-nd.png)  
+> Requirement Identification 需求識別 © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>  
 
 | Aspects 面向 | Do 應做 | Do NOT 不應做 |
 | :---: | :--- | :--- |

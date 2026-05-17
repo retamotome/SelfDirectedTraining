@@ -1,4 +1,9 @@
 # The Four Performance Dimensions KPI) Model 四大績效維度關鍵績效指標模型
+
+> [!important]  
+> ![BY NC ND](../../../img/by-nc-nd.png)  
+> The Four Performance Dimensions KPI) Model 四大績效維度關鍵績效指標模型 © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>   
+
 ## A. Delivery & Productivity 交付與生產力  
 **Goal**: Did AI help the team deliver more or faster?   
 AI 是否幫助團隊交付得更多或更快？  

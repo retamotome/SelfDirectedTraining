@@ -1,4 +1,9 @@
 # AI 的智力極限
+
+> [!important]  
+> ![BY NC ND](../../../img/by-nc-nd.png)  
+> AI 的智力極限 © 2024 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>   
+
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|

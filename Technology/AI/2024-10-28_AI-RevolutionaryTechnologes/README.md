@@ -1,5 +1,9 @@
-
 # 撐起AI的5個革命性「台柱」
+
+> [!important]  
+> ![BY NC ND](../../../img/by-nc-nd.png)  
+> 撐起AI的5個革命性「台柱」 © 2024 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>   
+
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
