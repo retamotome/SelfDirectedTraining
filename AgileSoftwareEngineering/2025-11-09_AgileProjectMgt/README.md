@@ -1,4 +1,8 @@
 # Lesson 01: Agile and Software Engineering 敏捷與軟體工程全覽
+
+> [!important]  
+> Agile and Software Engineering 敏捷與軟體工程全覽 © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|

@@ -1,5 +1,8 @@
 # Requirement Identification 需求識別
 
+> [!important]  
+> Requirement Identification 需求識別 © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 | Aspects 面向 | Do 應做 | Do NOT 不應做 |
 | :---: | :--- | :--- |
 | Why<br>原因 | Why will this use case be applied? If it is an alternative use case, determine the customer's actual needs.<br>為何會應用此使用案例？若為替代使用案例，請判斷客戶的實際需求。 |	Why will this use case NOT be applied? Consider whether this is truly a limitation or if we are simply overlooking it.<br>為何不會應用此使用案例？請考慮這是否真的是限制，或我們只是忽略了它。 |
