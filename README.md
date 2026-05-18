@@ -25,7 +25,7 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 | Video | Description | Date |
 |:----|:----------|:--|
-|[Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-15_AIReflectMeasurement/README.md) | Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 | 2026-05-15 |
+|[Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-18_AIReflectMeasurement/README.md) | Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 | 2026-05-18 |
 |[Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
 |[AI 風險管理（法律篇）](Management/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
 
