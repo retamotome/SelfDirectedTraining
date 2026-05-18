@@ -7,7 +7,7 @@
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
+|<a href="https://youtu.be/M9GFgOZtxJU" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/M9GFgOZtxJU" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
 
 ## Agenda 大綱  
 + Why Artificial Intelligence (AI) Governance Is Now a Management Issue <br>為什麼人工智慧（AI）治理現在是管理議題
