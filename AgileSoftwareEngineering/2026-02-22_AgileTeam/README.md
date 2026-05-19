@@ -22,11 +22,15 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
 
 ## Self-Training 自主訓練
-+ 2025-08-12 [後敏捷時代的組織再造：為何淘汰Scrum Master是第一步？AI與系統化賦能的實戰指南](https://www.find.org.tw/indus_trend/browse/09db48ac70d0e66e03f2d9c002c014cc)  
-+ [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)
-  + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
 + [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
   + [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
++ [敏捷升級：28個提升敏捷成效的關鍵原則](https://www.books.com.tw/products/0010944453)   
+	+ [More Effective Agile: A Roadmap for Software Leaders](https://www.amazon.com/More-Effective-Agile-Roadmap-Software/dp/1733518215)  
+	+ [卓有成效的敏捷(簡體中文)](https://www.books.com.tw/products/CN11727778)  
++ [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)
+  + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
++ 2025-08-12 [後敏捷時代的組織再造：為何淘汰Scrum Master是第一步？AI與系統化賦能的實戰指南](https://www.find.org.tw/indus_trend/browse/09db48ac70d0e66e03f2d9c002c014cc)  
+
 
 ## News and Reference 參考資訊
 + 🏆何飛鵬筆記系列 
