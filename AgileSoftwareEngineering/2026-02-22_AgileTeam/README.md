@@ -25,6 +25,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + 2025-08-12 [後敏捷時代的組織再造：為何淘汰Scrum Master是第一步？AI與系統化賦能的實戰指南](https://www.find.org.tw/indus_trend/browse/09db48ac70d0e66e03f2d9c002c014cc)  
 + [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)
   + [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
++ [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
+  + [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
 
 ## News and Reference 參考資訊
 + 🏆何飛鵬筆記系列 
@@ -48,7 +50,6 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 2026-03-06 [當品牌著火了，最可怕的敵人不是輿論，而是自己人！](https://www.managertoday.com.tw/columns/view/71807)  
 2026-03-05 [人才要的不只是薪水！做對這 5 件事，讓優秀員工捨不得離開](https://www.managertoday.com.tw/columns/view/71799)  
 2026-02-09 [忘掉 Google 那一套！你的 OKR 會失敗，是因為盲目照抄巨人的做法](https://www.managertoday.com.tw/columns/view/71718)  
-2026-01-27 [AI淘汰了哪種企業？報告揭轉型血淚：企業為何陷入「為了AI而AI」5大致命盲點？](https://www.bnext.com.tw/article/89882/ai-transformation-100-report)  
 2026-01-22 [做得多不如做得對！學馬斯克的「減法工作」，3 招找回高產出](https://www.managertoday.com.tw/columns/view/71632)  
 2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
 2026-01-21 [諸葛亮：核心團隊裡一定要有 3 種親信](https://www.managertoday.com.tw/books/view/71610)  

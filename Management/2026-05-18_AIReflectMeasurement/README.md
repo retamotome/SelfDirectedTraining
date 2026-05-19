@@ -21,5 +21,9 @@
 
 ## News and Reference 參考資訊
 + 2026-04-24 [別把工具當目標！為何將 AI 綁定員工考核，是管理上的一大盲點？](https://www.managertoday.com.tw/articles/view/72061)  
-+ 2026-04-23 [Harness Engineering是什麼？台大教授80字實驗揭：AI為何仍需人類引導，還會越罵越笨？](https://www.bnext.com.tw/article/90734/harness-engineering-ai-guidance-gemma-experiment)  
 + 2026-04-23 [AI全面轉型是美好幻覺？麥肯錫：企業關鍵流程只有20～30項](https://www.managertoday.com.tw/columns/view/72053)   
++ 2026-04-21 [「CEO 最重要的能力之一，就是承認自己錯了」多鄰國執行長為何撤回「AI 納入 KPI」政策？](https://www.managertoday.com.tw/articles/view/72041)  
++ 2026-04-16 [矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？](https://www.managertoday.com.tw/articles/view/71981)  
++ 2026-01-27 [AI淘汰了哪種企業？報告揭轉型血淚：企業為何陷入「為了AI而AI」5大致命盲點？](https://www.bnext.com.tw/article/89882/ai-transformation-100-report)    
++ 2026-02-10 [AI疲勞是什麼？研究打破「導入AI＝工時減少」假設：有了 AI，工程師為何反而更過勞？](https://www.bnext.com.tw/article/90065/generative-ai-productivity-myth-employee-busy)  
++ 2026-01-22 [AI 反而讓你更累？以為效率提高了，其實是讓更多「猴子」跳到你背上！](https://www.managertoday.com.tw/articles/view/71634)  

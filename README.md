@@ -13,7 +13,7 @@ Sharing knowledge in software engineering—covering process design, management 
 |:----|:----------|:--|
 | [Lesson 01: Agile and Software Engineering 敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md) | 敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。 | 2025-11-09 |    
 | [Lesson 02: Business Requirement Definition 商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md) | 商業需求定義｜從觀念到實務．完全攻略！| 2025-12-08 |  
-| [Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
+| [Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | ４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！| 2026-02-22 |  
 
 ---
 
@@ -26,7 +26,7 @@ Insights into software management, risk control, cybersecurity governance, and p
 | Video | Description | Date |
 |:----|:----------|:--|
 |[Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-18_AIReflectMeasurement/README.md) | Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 | 2026-05-18 |
-|[Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | 正確地打造敏捷團隊，依據 Cynefin Framework 以及所對應的 ARCI 模型。| 2026-02-22 |  
+|[Agile Team：Identification and Management 敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md) | ４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！| 2026-02-22 |  
 |[AI 風險管理（法律篇）](Management/2024-11-11_AI-Risk-Management/README.md)|企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！| 2024-11-11 |
 
 ---

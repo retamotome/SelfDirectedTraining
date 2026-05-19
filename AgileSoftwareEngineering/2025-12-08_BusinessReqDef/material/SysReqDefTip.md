@@ -6,7 +6,7 @@
 
 ## Overview 
 
-This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience. 
+This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.   
 For guidance on writing requirements, see [Writing Requirements Effectively](./WritingReq.md). 
 
 ## System Architecture 

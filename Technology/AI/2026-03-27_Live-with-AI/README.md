@@ -29,8 +29,6 @@
 + 2016-07-01 [機器人三大法則太過簡單？微軟 CEO發表AI人工智慧的六大法則](https://www.techbang.com/posts/44430-three-laws-of-robotics-is-too-simple-google-ceo-made-ai-ten-principles)  
 
 AI必須取代人類的工作類型  
-+ 2026-04-21 [「CEO 最重要的能力之一，就是承認自己錯了」多鄰國執行長為何撤回「AI 納入 KPI」政策？](https://www.managertoday.com.tw/articles/view/72041)  
-+ 2026-04-16 [矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？](https://www.managertoday.com.tw/articles/view/71981)  
 + 2026-04-17 [一個不像人的機器人，卻被亞馬遜納入75萬電商大軍！還攻進豐田產線](https://www.bnext.com.tw/article/90648/agility-digit-ai100)  
 + 2026-01-09 [台灣醫療院所智慧化趨勢的關鍵一步：讓「送餐機器人」成為最佳智慧照護助理](https://www.find.org.tw/indus_trend/browse/346f3af5ddce818e8f419cfad4b7ac57)   
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
