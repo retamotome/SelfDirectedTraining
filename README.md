@@ -1,8 +1,8 @@
 # Self-Directed Training
 
 > [!important]  
-> ![BY NC ND](./img/by-nc-nd.png)  
-> This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>
+> ![BY NC SA](./img/Cc-by-nc-sa.png)  
+> This work is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
 
 ## Agile and Software Engineering 敏捷與軟體工程
 

@@ -1,8 +1,8 @@
 # 我的天！AI又歪了！
 
 > [!important]  
-> ![BY NC ND](../../../img/by-nc-nd.png)  
-> 我的天！AI又歪了！ © 2025 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>   
+> ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+> 我的天！AI又歪了！ © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
 
 ## Introduction Video 介紹影片
 | Video | Description |

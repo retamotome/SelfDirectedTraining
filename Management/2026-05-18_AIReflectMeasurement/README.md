@@ -1,8 +1,8 @@
 # Measuring AI’s Impact on Teams (AI 效益評鑑指標) 
 
 > [!important]  
-> ![BY NC ND](../../img/by-nc-nd.png)  
-> Measuring AI’s Impact on Teams (AI 效益評鑑指標)  © 2026 by Jen Yuan Pan is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>  
+> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
+> Measuring AI’s Impact on Teams (AI 效益評鑑指標)  © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
 
 ## Introduction Video 介紹影片
 | Video | Description |
