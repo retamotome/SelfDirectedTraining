@@ -22,8 +22,7 @@
 + Guideline and Example. 實戰指引
 
 ## Self-Training 自主訓練
-+ 🏆 [System Requirement Definition Practical Tips](material/SysReqDefTip.md) 
-+ 🏆 [Writing Requirements Effectively](material/WritingReq.md)
++ 🏆 [Business Requirement Definition](https://github.com/retamotome/AgileSoftwareProjectTutorial/tree/main/BusinessDevelopmentPhase/BusinessRequirementDefinition)  
 
 ### Requirement Identification 需求識別
 Exploring Requirements, new version published in 2011.
