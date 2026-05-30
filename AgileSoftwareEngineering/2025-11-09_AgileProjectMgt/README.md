@@ -18,7 +18,7 @@
 + System Software Engineering - Planning Workflow and Executing Workflow. 系統軟體工程 - 「規劃流程」與「執行流程」
 
 ## Self-Training 自主訓練
-+ 🏆[Agile Code of Conduct 敏捷團隊行為守則](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/ProjectInitiationPhase/Agile-Code-of-Conduct.md)  
++ 🏆[Agile Code of Conduct 敏捷團隊行為守則](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/ProjectInitiationPhase/Policy/Agile-Code-of-Conduct.md)  
 + [Peopleware：腦力密集產業的人才管理之道 2020](https://www.books.com.tw/products/0010872982)
   + [Peopleware: Productive Projects and Teams 2016](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)
   + You can borrow the e-book from the national library 借閱電子書: <br>[國立公共資訊圖書館館藏查詢系統](https://ipac.nlpi.edu.tw/bookDetail/650050)  
