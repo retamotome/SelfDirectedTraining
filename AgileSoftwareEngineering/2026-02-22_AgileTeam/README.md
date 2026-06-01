@@ -22,6 +22,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
 
 ## Self-Training 自主訓練
+:star: [Project Initiation Phase](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/ProjectInitiationPhase/README.md) 
+
 + [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
   + [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
 + [敏捷升級：28個提升敏捷成效的關鍵原則](https://www.books.com.tw/products/0010944453)   

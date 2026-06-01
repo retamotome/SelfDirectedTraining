@@ -22,7 +22,7 @@
 + Guideline and Example. 實戰指引
 
 ## Self-Training 自主訓練
-+ 🏆 [Business Requirement Definition](https://github.com/retamotome/AgileSoftwareProjectTutorial/tree/main/BusinessDevelopmentPhase/BusinessRequirementDefinition)  
+🏆 [Business Development Phase](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/BusinessDevelopmentPhase/README.md)  
 
 ### Requirement Identification 需求識別
 Exploring Requirements, new version published in 2011.
