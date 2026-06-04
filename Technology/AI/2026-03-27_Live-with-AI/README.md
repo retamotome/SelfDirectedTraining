@@ -23,12 +23,15 @@
 + 2026-03-09 [「謝謝建議，我回官網訂」：OpenAI 認了！人們就是不想在 ChatGPT 裡買東西](https://www.managertoday.com.tw/articles/view/71809)  
 
 智力極限  
++ [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)
 + 2026-03-10 [AI 產出很快，但會讓錯誤「看似合理」！台大教授提醒：你一定要把關 3 個維度](https://www.managertoday.com.tw/articles/view/71821)  
++ 2025-12-08 [AI 的最大危機不是幻覺，而是沒有「人類上網」後的資料枯竭](https://techorange.com/2025/12/08/amazon-perplexity-ai-browser-open-web/)  
 
 倫理道德  
 + 2016-07-01 [機器人三大法則太過簡單？微軟 CEO發表AI人工智慧的六大法則](https://www.techbang.com/posts/44430-three-laws-of-robotics-is-too-simple-google-ceo-made-ai-ten-principles)  
 
 AI必須取代人類的工作類型  
++ 2026-06-22 [黃仁勳猛催token、企業AI帳單卻失控！微軟與Uber都踩煞車，「養AI比用人貴」現實已上演](https://www.bnext.com.tw/article/91045/ai-cost-token-agent)  
 + 2026-04-17 [一個不像人的機器人，卻被亞馬遜納入75萬電商大軍！還攻進豐田產線](https://www.bnext.com.tw/article/90648/agility-digit-ai100)  
 + 2026-01-09 [台灣醫療院所智慧化趨勢的關鍵一步：讓「送餐機器人」成為最佳智慧照護助理](https://www.find.org.tw/indus_trend/browse/346f3af5ddce818e8f419cfad4b7ac57)   
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
@@ -55,4 +58,6 @@ AI必須取代人類的工作類型
 		+ 2023-01-25 [Watch this liquid metal robot slink out of jail](https://www.science.org/content/article/watch-liquid-metal-robot-slink-out-jail?utm_medium=ownedSocial&utm_source=Twitter&utm_campaign=NewsfromScience)  
 	+ 2019-09-23 [Is Skynet really the future of Artificial Intelligence?](https://medium.datadriveninvestor.com/is-skynet-really-the-future-of-artificial-intelligence-83b7d6ad0d05)  
 	+ 2014-12-02 [Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540)  
+	
+	---
 	

@@ -12,3 +12,4 @@
 ## News and Reference 參考資訊  
 + 2026-01-15 [AI人才新生存地圖！](https://www.bnext.com.tw/article/89780/ai-golden-age-challenges-and-talent-value-transformation)   
 + 2026-04-23 [Harness Engineering是什麼？台大教授80字實驗揭：AI為何仍需人類引導，還會越罵越笨？](https://www.bnext.com.tw/article/90734/harness-engineering-ai-guidance-gemma-experiment)   
++ 2025-12-08 [AI 的最大危機不是幻覺，而是沒有「人類上網」後的資料枯竭](https://techorange.com/2025/12/08/amazon-perplexity-ai-browser-open-web/)  
