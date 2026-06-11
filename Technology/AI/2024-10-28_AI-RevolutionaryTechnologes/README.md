@@ -1,9 +1,5 @@
 # 撐起AI的5個革命性「台柱」
 
-> [!important]  
-> ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
-> 撐起AI的5個革命性「台柱」 © 2024 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -60,7 +56,9 @@ Passage M1000 預計將於 2025 年夏季上市。
 + [Chinese : 日本总务省发布5G时代概念宣传片：5G连接下的世界](https://www.youtube.com/watch?v=9BwAlU4WyZo&pp=ygUS5pel5pys57i95YuZ55yBIDVH)
 
 
+---
 
+## License｜授權條款
 
-
-
+![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+撐起AI的5個革命性「台柱」 © 2024 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

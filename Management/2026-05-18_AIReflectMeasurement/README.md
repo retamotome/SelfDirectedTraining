@@ -1,9 +1,5 @@
 # Measuring AI’s Impact on Teams (AI 效益評鑑指標) 
 
-> [!important]  
-> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
-> Measuring AI’s Impact on Teams (AI 效益評鑑指標)  © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -27,3 +23,12 @@
 + 2026-01-27 [AI淘汰了哪種企業？報告揭轉型血淚：企業為何陷入「為了AI而AI」5大致命盲點？](https://www.bnext.com.tw/article/89882/ai-transformation-100-report)    
 + 2026-02-10 [AI疲勞是什麼？研究打破「導入AI＝工時減少」假設：有了 AI，工程師為何反而更過勞？](https://www.bnext.com.tw/article/90065/generative-ai-productivity-myth-employee-busy)  
 + 2026-01-22 [AI 反而讓你更累？以為效率提高了，其實是讓更多「猴子」跳到你背上！](https://www.managertoday.com.tw/articles/view/71634)  
+
+---
+
+## License｜授權條款
+
+![BY NC ND](../../img/Cc-by-nc-sa.png)  
+Measuring AI’s Impact on Teams © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+AI 效益評鑑指標 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+

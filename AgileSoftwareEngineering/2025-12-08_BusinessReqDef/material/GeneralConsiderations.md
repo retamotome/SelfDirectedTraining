@@ -1,9 +1,5 @@
 # General Considerations 通用考量項目
 
-> [!important]  
-> ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
-> General Considerations 通用考量項目 © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-
 General considerations for requirements of a software product may include:  
 軟體產品需求的通用考量可能包括：  
 
@@ -30,3 +26,11 @@ General considerations for requirements of a software product may include:
 
 General considerations apply to both Business Requirement and System Requirement phases.  
 通用考量適用於業務需求和系統需求階段。  
+
+---
+
+## License｜授權條款
+  
+![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+General Considerations © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+通用考量項目 © 2025 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。    

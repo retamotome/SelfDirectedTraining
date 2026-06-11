@@ -1,9 +1,5 @@
 # AI 風險管理（法律篇）
 
-> [!important]  
-> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
-> AI 風險管理（法律篇） © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -11,3 +7,10 @@
 
 ## News and Reference 參考資訊  
 2025-08-18 [小心你的AI助理！避開「資料、內容、通訊」三重風險](https://www.find.org.tw/tech_obser/browse/49276e15fb78be4e9f7273822a0ef782)  
+
+---
+
+## License｜授權條款
+
+![BY NC ND](../../img/Cc-by-nc-sa.png)  
+AI 風險管理（法律篇） © 2025 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

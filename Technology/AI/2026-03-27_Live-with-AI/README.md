@@ -1,9 +1,5 @@
 # AI 趨勢觀察
 
-> [!important]  
-> ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
-> AI 趨勢觀察 © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -42,6 +38,8 @@ AI必須取代人類的工作類型
 + 2025-03-19 [無人計程車時代來臨！Waymo、特斯拉戰火升溫，2大巨頭的戰略佈局有何不同？](https://www.bnext.com.tw/article/82597/2025-waymo-and-tesla)  
 
 人生再進化  
++ 2026-06-03 [中年以後，感覺日子愈過愈快？3 個練習，幫你看清時間真正去了哪裡](https://www.managertoday.com.tw/columns/view/72262)  
++ 2026-05-29 [迷惘是人生的常態！休傑克曼用 2 次錯誤決策告訴你：比起「有道理」，更該信任這件事](https://www.managertoday.com.tw/articles/view/72234)  
 + 2026-04-14 [被誤解該怎麼辦？別人的失望，不是你的責任](https://www.managertoday.com.tw/books/view/72000)   
 + 2026-04-14 [年少時放下的嚮往，你敢在中年後拾起嗎？史丹佛人生設計課教授的親身告白]( https://www.managertoday.com.tw/columns/view/72009)   
 + 2026-04-13 [拼命演好每個角色，心卻累透了？榮格心理學：中年，是活回自己的開始](https://www.managertoday.com.tw/eightylife/article/view/1830)   
@@ -59,5 +57,9 @@ AI必須取代人類的工作類型
 	+ 2019-09-23 [Is Skynet really the future of Artificial Intelligence?](https://medium.datadriveninvestor.com/is-skynet-really-the-future-of-artificial-intelligence-83b7d6ad0d05)  
 	+ 2014-12-02 [Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540)  
 	
-	---
+---
+
+## License｜授權條款
 	
+![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+AI 趨勢觀察 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

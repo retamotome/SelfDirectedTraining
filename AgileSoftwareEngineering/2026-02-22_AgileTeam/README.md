@@ -1,9 +1,5 @@
 # Agile Team：Identification and Management 敏捷團隊：識別與管理
 
-> [!important]  
-> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
-> Agile Team：Identification and Management 敏捷團隊：識別與管理 © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -47,22 +43,39 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
   + [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
 
-2026-04-23 [為何有些主管能力一流，卻不會帶人？從「榮格心理學」找出領導者的決策盲點](https://www.managertoday.com.tw/columns/view/72028)  
-2026-04-23 [你對部屬提問的方式是為了「找答案」，還是「找戰犯」？](https://www.managertoday.com.tw/columns/view/72042)  
-2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
-2026-04-06 [沒經驗但潛力高 vs. 有經驗但潛力有限，你會錄取哪個？](https://www.managertoday.com.tw/columns/view/71959)  
-2026-04-03 [面試喝飲料也暗藏關卡？高管：10％ 求職者因一項「咖啡杯測試」默默被淘汰！](https://www.managertoday.com.tw/articles/view/71939)  
-2026-03-31 [職場不是交朋友的地方！帶人 20 年，我最常送給離職者的 8 個建議](https://www.managertoday.com.tw/articles/view/71935)  
-2026-03-06 [當品牌著火了，最可怕的敵人不是輿論，而是自己人！](https://www.managertoday.com.tw/columns/view/71807)  
-2026-03-05 [人才要的不只是薪水！做對這 5 件事，讓優秀員工捨不得離開](https://www.managertoday.com.tw/columns/view/71799)  
-2026-02-09 [忘掉 Google 那一套！你的 OKR 會失敗，是因為盲目照抄巨人的做法](https://www.managertoday.com.tw/columns/view/71718)  
-2026-01-22 [做得多不如做得對！學馬斯克的「減法工作」，3 招找回高產出](https://www.managertoday.com.tw/columns/view/71632)  
-2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
-2026-01-21 [諸葛亮：核心團隊裡一定要有 3 種親信](https://www.managertoday.com.tw/books/view/71610)  
-2025-09-01 [組織被「恐懼」綁架了！麥肯錫揭：85% 高階主管的共同難題](https://www.managertoday.com.tw/books/view/70863)  
-2025-08-22 [員工績效不彰，光靠激勵沒用！主管該先檢視這15個問題](https://www.managertoday.com.tw/articles/view/53825)      
-2019-06-06 [優秀員工默默在意的 16 件事，主管別輕忽！](https://www.managertoday.com.tw/articles/view/57773)  
-2017-10-13 [如何找尋適合組織的千里馬？向孔子學識人 3 層次](https://www.managertoday.com.tw/articles/view/55165)  
 
+Authority Matrix Framework. (權限矩陣框架)  
++ 2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
++ 2026-03-06 [當品牌著火了，最可怕的敵人不是輿論，而是自己人！](https://www.managertoday.com.tw/columns/view/71807)  
++ 2026-03-05 [人才要的不只是薪水！做對這 5 件事，讓優秀員工捨不得離開](https://www.managertoday.com.tw/columns/view/71799)  
++ 2026-01-21 [諸葛亮：核心團隊裡一定要有 3 種親信](https://www.managertoday.com.tw/books/view/71610)  
++ 2019-06-06 [優秀員工默默在意的 16 件事，主管別輕忽！](https://www.managertoday.com.tw/articles/view/57773)  
+
+
+ARCI Models. (4 種 ARCI 模型)  
++ 2026-02-09 [忘掉 Google 那一套！你的 OKR 會失敗，是因為盲目照抄巨人的做法](https://www.managertoday.com.tw/columns/view/71718)  
++ 2026-01-22 [做得多不如做得對！學馬斯克的「減法工作」，3 招找回高產出](https://www.managertoday.com.tw/columns/view/71632)  
++ 2025-08-22 [員工績效不彰，光靠激勵沒用！主管該先檢視這15個問題](https://www.managertoday.com.tw/articles/view/53825)      
+
+Cynefin Framework. (Cynefin 情境框架)  
++ 2026-04-23 [你對部屬提問的方式是為了「找答案」，還是「找戰犯」？](https://www.managertoday.com.tw/columns/view/72042)  
++ 2026-04-06 [沒經驗但潛力高 vs. 有經驗但潛力有限，你會錄取哪個？](https://www.managertoday.com.tw/columns/view/71959)  
++ 2025-05-03 [馬斯克面試時，用這一題戳破「騙子」！研究證實：這方法有效](https://www.managertoday.com.tw/articles/view/62857)  
+	
+Build an Agile Team. (建立敏捷團隊) 
++ 2026-04-23 [為何有些主管能力一流，卻不會帶人？從「榮格心理學」找出領導者的決策盲點](https://www.managertoday.com.tw/columns/view/72028)  
++ 2026-03-31 [職場不是交朋友的地方！帶人 20 年，我最常送給離職者的 8 個建議](https://www.managertoday.com.tw/articles/view/71935)  
++ 2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
++ 2025-09-01 [組織被「恐懼」綁架了！麥肯錫揭：85% 高階主管的共同難題](https://www.managertoday.com.tw/books/view/70863)  
++ 2022-09-20 [面試員工時「以貌取人」該先注意哪個五官？從清末曾國藩挖掘人才的歷史學識人](https://www.managertoday.com.tw/books/view/65741)  
++ 2017-10-13 [如何找尋適合組織的千里馬？向孔子學識人 3 層次](https://www.managertoday.com.tw/articles/view/55165)  
+
+---
+
+## License｜授權條款
+	
+![BY NC ND](../../img/Cc-by-nc-sa.png)  
+Agile Team：Identification and Management © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+敏捷團隊：識別與管理 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
 
 

@@ -1,9 +1,5 @@
 # Self-Directed Training
 
-> [!important]  
-> ![BY NC SA](./img/Cc-by-nc-sa.png)  
-> This work is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
-
 ## Agile and Software Engineering 敏捷與軟體工程
 
 分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
@@ -70,3 +66,8 @@ Exploring science and technology through knowledge sharing, in-depth analysis, a
 
 ---
 
+## License｜授權條款
+
+![BY NC SA](./img/Cc-by-nc-sa.png)  
+This work © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+本作品 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

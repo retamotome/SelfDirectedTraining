@@ -1,9 +1,5 @@
 # The Four Performance Dimensions KPI) Model 四大績效維度關鍵績效指標模型
 
-> [!important]  
-> ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
-> The Four Performance Dimensions KPI) Model 四大績效維度關鍵績效指標模型 © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
-
 ## A. Delivery & Productivity 交付與生產力  
 **Goal**: Did AI help the team deliver more or faster?   
 AI 是否幫助團隊交付得更多或更快？  
@@ -43,3 +39,11 @@ High-performing teams show quality gains, not just speed.
 | 倦怠風險 <br>Burnout risk | 壓力／過載分數 <br>Stress / overload score | 每月脈動調查<br>Monthly pulse survey | ↑ = 紅旗警示<br>↑ = red flag |
 | 感知自主性<br>Perceived autonomy | 「我仍然做決定」<br>“I still decide” | 問卷調查<br>Survey | ↓ = 危險<br>↓ = danger |
 | 技能信心<br>Skill confidence | 自評能力<br>Self rated capability	| 問卷調查<br>Survey | ↓ = 過度依賴<br>↓ = over reliance |
+
+---
+
+## License｜授權條款
+
+![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+The Four Performance Dimensions KPI Model © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
+四大績效維度關鍵績效指標模型 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

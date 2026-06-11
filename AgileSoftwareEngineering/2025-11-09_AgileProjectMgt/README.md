@@ -1,9 +1,5 @@
 # Lesson 01: Agile and Software Engineering 敏捷與軟體工程全覽
 
-> [!important]  
-> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
-> Agile and Software Engineering 敏捷與軟體工程全覽 © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -27,3 +23,10 @@
 + [溫伯格的軟體管理學套書(全4卷)](https://www.books.com.tw/products/0010553999)  
   + [Quality Software Management](https://www.amazon.com/s?k=Quality+Software+Management+Weinberg)  
 
+---
+
+## License｜授權條款
+  
+![BY NC ND](../../img/Cc-by-nc-sa.png)  
+Agile and Software Engineering © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+敏捷與軟體工程全覽 © 2025 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。    

@@ -1,9 +1,5 @@
 # Lesson 02: Business Requirement Definition 商業需求定義
 
-> [!important]  
-> ![BY NC ND](../../img/Cc-by-nc-sa.png)  
-> Business Requirement Definition 商業需求定義 © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-
 ## Introduction Video 介紹影片
 | Video | Description |
 |:--|:----------|
@@ -37,3 +33,11 @@ Exploring Requirements, new version published in 2011.
 + [領域驅動設計：軟體核心複雜度的解決方法](https://www.books.com.tw/products/0010821330)  
   + [Domain-Driven Design: Tackling Complexity in the Heart of Software 2003](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)   
   + [wiki 領域驅動設計](https://zh.wikipedia.org/zh-hk/%E9%A0%98%E5%9F%9F%E9%A9%85%E5%8B%95%E8%A8%AD%E8%A8%88)
+
+---
+
+## License｜授權條款
+  
+![BY NC ND](../../img/Cc-by-nc-sa.png)  
+Business Requirement Definition © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+商業需求定義 © 2025 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。    
