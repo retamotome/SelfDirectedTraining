@@ -1,6 +1,6 @@
-# The Four Performance Dimensions KPI) Model 四大績效維度關鍵績效指標模型
+# The Four Performance Dimensions KPI Model｜四大績效維度關鍵績效指標模型
 
-## A. Delivery & Productivity 交付與生產力  
+## A. Delivery & Productivity｜交付與生產力  
 **Goal**: Did AI help the team deliver more or faster?   
 AI 是否幫助團隊交付得更多或更快？  
 
@@ -10,7 +10,7 @@ AI 是否幫助團隊交付得更多或更快？
 | 產出量<br>Throughput | 每期完成的任務／故事／工作數<br>Tasks / stories / jobs per period | 同上<br>Same as above | ↑ 但可能趨於平穩<br>↑ but may plateau |
 | 重工率<br>	| 需要修正的產出百分比<br>% of output that requires fixes	| QA 紀錄、NCR、Bug 工單<br>QA logs, NCRs, bug tickets | ↔ 或 ↓（↑ 為警訊）<br>↔ or ↓ (↑ is warning sign) |
 
-## B. Quality & Effectiveness 品質與效能
+## B. Quality & Effectiveness｜品質與效能
 **Goal**: Is output actually better?   
 產出是否真的更好？   
 High-performing teams show quality gains, not just speed.   
@@ -22,7 +22,7 @@ High-performing teams show quality gains, not just speed.
 | 缺陷／錯誤密度<br>Defect / error density | 每單位的錯誤數<br>Errors per unit | QA、檢驗、測試失敗<br>QA, inspections, test failures | ↓ |
 | 利害關係人滿意度<br>Stakeholder satisfaction	| 內部／外部評分<br>Internal/external rating | 簡短問卷（1–5 分）<br>Short survey (1–5) | ↑ |
 
-## C. Collaboration & Decision Flow 協作與決策流程
+## C. Collaboration & Decision Flow｜協作與決策流程
 **Goal**: Is the team working better together? 團隊是否合作得更好？  
 
 | 指標 <br>Metric | 定義 <br>Definition | 衡量方式 <br>Measure | 預期訊號 <br>Expected Signal |
@@ -31,7 +31,7 @@ High-performing teams show quality gains, not just speed.
 | 工作分配<br>Work distribution | 前 20% 成員承擔的工作比例<br>% work owned by top 20% | 任務紀錄<br>Task logs | 更均衡<br>More even |
 | 非同步 vs 會議比例<br>Async vs meeting ratio	| 有效的非同步工作<br>Productive async work	| 行事曆 + 工具<br>Calendar + tools | ↑ 非同步<br>↑ async |
 
-## D. Human Sustainability 人員永續性
+## D. Human Sustainability｜人員永續性
 **Goal**: Are gains sustainable? 成效是否可持續？
 
 | 指標 <br>Metric | 定義 <br>Definition | 衡量方式 <br>Measure | 預期訊號 <br>Expected Signal |

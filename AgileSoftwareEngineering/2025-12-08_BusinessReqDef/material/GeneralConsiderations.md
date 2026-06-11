@@ -1,4 +1,4 @@
-# General Considerations 通用考量項目
+# General Considerations｜通用考量項目
 
 General considerations for requirements of a software product may include:  
 軟體產品需求的通用考量可能包括：  

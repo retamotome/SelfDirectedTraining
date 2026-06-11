@@ -1,6 +1,6 @@
 # Self-Directed Training
 
-## Agile and Software Engineering 敏捷與軟體工程
+## Agile and Software Engineering｜敏捷與軟體工程
 
 分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
 Sharing knowledge in software engineering—covering process design, management techniques, CI/CD, agile practices, and various frameworks—to help you master the core essentials of development and management.  
@@ -14,7 +14,7 @@ Sharing knowledge in software engineering—covering process design, management 
 ---
 
 
-## Management 管理
+## Management｜管理
 
 分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。  
 Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.  
@@ -27,7 +27,7 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 ---
 
-## Software Development 軟體開發  
+## Software Development｜軟體開發  
 
 探索軟體開發的技巧、觀念與知識分享，帶你掌握實務精華，拓展開發思維。  
 Exploring software development through practical tips, key concepts, and knowledge sharing—helping you master essential skills and broaden your development mindset.  
@@ -38,7 +38,7 @@ Exploring software development through practical tips, key concepts, and knowled
 
 ---
 
-## Personal Reflections 人生心得
+## Personal Reflections｜人生心得
 
 分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。  
 Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom.  
@@ -50,7 +50,7 @@ Sharing life philosophy and personal reflections, exploring perspectives and ide
 
 ---
   
-## Technology 科學與科技
+## Technology｜科學與科技
 
 探索科學與科技的知識分享、深入分析與觀察，帶你掌握前沿洞見，拓展思維視野。  
 Exploring science and technology through knowledge sharing, in-depth analysis, and thoughtful observations—guiding you to grasp cutting-edge insights and broaden your perspective.  

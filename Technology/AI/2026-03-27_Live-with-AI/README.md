@@ -1,11 +1,11 @@
 # AI 趨勢觀察
 
-## Introduction Video 介紹影片
+## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
 |<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/qyz635AeV1g" target="_blank">YouTube</a><br> 🟢 Chinese ⚪ English ⚪ Japaness</sub><br>市場機制、產業變革、人類世界的全面反思 |
 
-## Agenda 大綱  
+## Agenda｜大綱  
 + 市場機制  
 + 智力極限  
 + 倫理道德   
@@ -13,7 +13,7 @@
 + 產業變革  
 + 人生再進化  
 
-## News and Reference  參考資訊  
+## News and Reference｜參考資訊  
 市場機制  
 + 2026-04-17 [諾貝爾獎得主嘆「AI商業化太快」：若多留實驗室幾年，人類可能已攻克癌症！](https://www.bnext.com.tw/article/90620/demis-hassabis-deepmind-ai)  
 + 2026-03-09 [「謝謝建議，我回官網訂」：OpenAI 認了！人們就是不想在 ChatGPT 裡買東西](https://www.managertoday.com.tw/articles/view/71809)  
