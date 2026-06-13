@@ -1,4 +1,6 @@
-# Self-Directed Training
+# Self-Directed Learning Guide｜自主學習指南
+
+![Self-Directed Training](./img/SelfDirectedTraining.png)
 
 ## Agile and Software Engineering｜敏捷與軟體工程
 

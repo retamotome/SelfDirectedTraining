@@ -13,12 +13,12 @@
 + Build an Agile Team｜建立敏捷團隊  
 
 ## Policy｜準則 
-🏆[Agile Code Conduct 敏捷團隊行為守則](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/ProjectInitiationPhase/Policy/Agile-Code-of-Conduct.md)   
+🏆[Agile Code Conduct 敏捷團隊行為守則](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/Policy/Agile-Code-of-Conduct.md)   
 All members of Agile teams are required to adhere to the Agile Code of Conduct, which underscores the importance of Independent Thinking and Autonomous Learning. Teams retain the discretion to implement alternative codes that align with their particular workflows.   
 所有敏捷團隊成員皆須遵守敏捷行為準則，該準則強調獨立思考與自主學習的重要性。團隊可自行決定實施符合其特定工作流程的其他準則。   
 
 ## Self-Training｜自主訓練
-:star: [Project Initiation Phase](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/ProjectInitiationPhase/README.md) 
+:star: [Project Initiation Phase](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md) 
 
 + [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
   + [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     

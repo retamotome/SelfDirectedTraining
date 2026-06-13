@@ -18,7 +18,7 @@
 + Guideline and Example｜實戰指引
 
 ## Self-Training｜自主訓練
-🏆 [Business Development Phase](https://github.com/retamotome/AgileSoftwareProjectTutorial/blob/main/BusinessDevelopmentPhase/README.md)  
+🏆 [Business Development Phase](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/BusinessDevelopmentPhase/README.md)  
 
 ### Requirement Identification｜需求識別
 Exploring Requirements, new version published in 2011.
