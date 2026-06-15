@@ -46,4 +46,4 @@ High-performing teams show quality gains, not just speed.
 
 ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
 The Four Performance Dimensions KPI Model © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).   
-四大績效維度關鍵績效指標模型 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+四大績效維度關鍵績效指標模型 © 2026 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  

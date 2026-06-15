@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/M9GFgOZtxJU" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://youtu.be/M9GFgOZtxJU" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English ⚪ Japaness</sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
+|<a href="https://youtu.be/M9GFgOZtxJU" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/M9GFgOZtxJU" target="_blank">![video](../../img/youtube.svg)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
 
 ## Agenda｜大綱  
 + Why Artificial Intelligence (AI) Governance Is Now a Management Issue <br>為什麼人工智慧（AI）治理現在是管理議題
@@ -30,5 +30,5 @@
 
 ![BY NC ND](../../img/Cc-by-nc-sa.png)  
 Measuring AI’s Impact on Teams © 2026 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-AI 效益評鑑指標 © 2026 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+AI 效益評鑑指標 © 2026 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
 

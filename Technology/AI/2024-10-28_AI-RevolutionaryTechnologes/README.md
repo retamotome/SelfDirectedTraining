@@ -1,9 +1,9 @@
-# 撐起AI的5個革命性「台柱」
+# 撐起AI的5個革命性「台柱」｜Five Revolutionary Pillars Supporting AI
 
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub>:arrow_forward: <a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank">YouTube</a><br> 🟢 Chinese 🟢 English 🟢 Japaness</sub><br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！|
+|<a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank">![video](../../../img/youtube.svg)</a><br> ☑️ Chinese ☑️ English ☑️ Japaness</sub><br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！<br>Chip Breakthroughs Beyond Moore’s Law｜Nuclear Waste Batteries That Can Generate Power for 28,000 Years!|
 
 ## News and Reference｜參考資訊  
 ### Network
@@ -62,4 +62,5 @@ Passage M1000 預計將於 2025 年夏季上市。
 ## License｜授權條款
 
 ![BY NC ND](../../../img/Cc-by-nc-sa.png)  
-撐起AI的5個革命性「台柱」 © 2024 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+Five Revolutionary Pillars Supporting AI © 2024 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
+撐起AI的5個革命性「台柱」 © 2024 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
