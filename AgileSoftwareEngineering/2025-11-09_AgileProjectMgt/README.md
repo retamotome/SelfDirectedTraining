@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank">![video](../../img/![video](../../img/youtube.svg).svg)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Agile and Software Engineering Overview｜Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。|
+|<a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=Ek5qa6cXapc" target="_blank">![video](../../img/youtube.svg)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Agile and Software Engineering Overview｜Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。|
 
 ## Agenda｜大綱 
 + System Software Engineering｜系統軟體工程  

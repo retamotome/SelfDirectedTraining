@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">![video](../../img/![video](../../img/youtube.svg).svg)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！ |
+|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">![video](../../img/youtube.svg)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！ |
 
 ## Agenda｜大綱  
 + Introduction｜引言  
@@ -48,6 +48,7 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 <details>
 <summary>Authority Matrix Framework｜權限矩陣框架</summary>
 
++ 2026-06-15 [在前東家有效的管理方式，為何換了一家公司就失靈？](https://www.managertoday.com.tw/books/view/72336)  
 + 2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
 + 2026-03-06 [當品牌著火了，最可怕的敵人不是輿論，而是自己人！](https://www.managertoday.com.tw/columns/view/71807)  
 + 2026-03-05 [人才要的不只是薪水！做對這 5 件事，讓優秀員工捨不得離開](https://www.managertoday.com.tw/columns/view/71799)  

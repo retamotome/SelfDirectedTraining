@@ -14,16 +14,27 @@
 + 人生再進化｜The Next Evolution of Human Life  
 
 ## News and Reference｜參考資訊  
-市場機制｜Market Mechanisms  
+
+<details>
+<summary>市場機制｜Market Mechanisms</summary>
+
 + 2026-04-17 [諾貝爾獎得主嘆「AI商業化太快」：若多留實驗室幾年，人類可能已攻克癌症！](https://www.bnext.com.tw/article/90620/demis-hassabis-deepmind-ai)  
 + 2026-03-09 [「謝謝建議，我回官網訂」：OpenAI 認了！人們就是不想在 ChatGPT 裡買東西](https://www.managertoday.com.tw/articles/view/71809)  
 
-智力極限｜Limits of Intelligence  
+</details>
+
+<details>
+<summary>智力極限｜Limits of Intelligence</summary>
+
 + [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)
 + 2026-03-10 [AI 產出很快，但會讓錯誤「看似合理」！台大教授提醒：你一定要把關 3 個維度](https://www.managertoday.com.tw/articles/view/71821)  
 + 2025-12-08 [AI 的最大危機不是幻覺，而是沒有「人類上網」後的資料枯竭](https://techorange.com/2025/12/08/amazon-perplexity-ai-browser-open-web/)  
 
-倫理道德｜Ethics and Morality   
+</details>
+
+<details>
+<summary>倫理道德｜Ethics and Morality</summary>
+
 + 2016-07-01 [機器人三大法則太過簡單？微軟 CEO發表AI人工智慧的六大法則](https://www.techbang.com/posts/44430-three-laws-of-robotics-is-too-simple-google-ceo-made-ai-ten-principles)  
 
 AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace   
@@ -32,12 +43,20 @@ AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace
 + 2026-01-09 [台灣醫療院所智慧化趨勢的關鍵一步：讓「送餐機器人」成為最佳智慧照護助理](https://www.find.org.tw/indus_trend/browse/346f3af5ddce818e8f419cfad4b7ac57)   
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
 
-產業變革｜Industrial Transformation  
+</details>
+
+<details>
+<summary>產業變革｜Industrial Transformation</summary>
+
 + 2026-03-24 [你以為技嘉只做主機板？在 AI 伺服器市場，它早就成為輝達點名的全球兩大供應商之一](https://www.managertoday.com.tw/articles/view/71890)  
 + 2026-01-14 [入選全球「人形機器人百強」！上銀科技的致勝心法：買不到的技術，就自己造](https://www.managertoday.com.tw/articles/view/7157)  
 + 2025-03-19 [無人計程車時代來臨！Waymo、特斯拉戰火升溫，2大巨頭的戰略佈局有何不同？](https://www.bnext.com.tw/article/82597/2025-waymo-and-tesla)  
 
-人生再進化｜The Next Evolution of Human Life  
+</details>
+
+<details>
+<summary>人生再進化｜The Next Evolution of Human Life</summary>
+
 + 2026-06-03 [中年以後，感覺日子愈過愈快？3 個練習，幫你看清時間真正去了哪裡](https://www.managertoday.com.tw/columns/view/72262)  
 + 2026-05-29 [迷惘是人生的常態！休傑克曼用 2 次錯誤決策告訴你：比起「有道理」，更該信任這件事](https://www.managertoday.com.tw/articles/view/72234)  
 + 2026-04-14 [被誤解該怎麼辦？別人的失望，不是你的責任](https://www.managertoday.com.tw/books/view/72000)   
@@ -47,9 +66,11 @@ AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace
 + 2026-03-11 [不辭職，也能活得像創業家！納瓦爾教你如何拿回「人生主導權」](https://www.managertoday.com.tw/columns/view/71816)  
 + 2026-03-02 [麥肯錫：你也是學歷頂尖、經歷有限的「輸送帶人才」嗎？](https://www.managertoday.com.tw/columns/view/71776)  
 
----
+</details>
 
-其他｜Others
+<details>
+<summary>其他｜Others</summary>
+
 + AI Robot｜機器人  
 	+ 2023-01-27 [以為魔鬼終結者 T-1000 機器人僅存在電影中？科學家已研發出可液化機器人](https://www.inside.com.tw/article/30536-phase-shifting-robot-innovation)  
 		+ 2023-03-07 [Magnetoactive liquid-solid phase transitional matter](https://www.cell.com/matter/fulltext/S2590-2385(22)00693-2)  
@@ -57,6 +78,9 @@ AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace
 	+ 2019-09-23 [Is Skynet really the future of Artificial Intelligence?](https://medium.datadriveninvestor.com/is-skynet-really-the-future-of-artificial-intelligence-83b7d6ad0d05)  
 	+ 2014-12-02 [Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540)  
 	
+</details>	
+
+
 ---
 
 ## License｜授權條款
