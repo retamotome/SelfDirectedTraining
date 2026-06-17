@@ -57,6 +57,7 @@ AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace
 <details>
 <summary>人生再進化｜The Next Evolution of Human Life</summary>
 
++ 2026-06-16 [翹一次課才發現，世界不會因此崩潰！Google 執行長皮蔡用 3 個標準，過濾人生的雜訊](https://www.managertoday.com.tw/articles/view/72349)  
 + 2026-06-03 [中年以後，感覺日子愈過愈快？3 個練習，幫你看清時間真正去了哪裡](https://www.managertoday.com.tw/columns/view/72262)  
 + 2026-05-29 [迷惘是人生的常態！休傑克曼用 2 次錯誤決策告訴你：比起「有道理」，更該信任這件事](https://www.managertoday.com.tw/articles/view/72234)  
 + 2026-04-14 [被誤解該怎麼辦？別人的失望，不是你的責任](https://www.managertoday.com.tw/books/view/72000)   

@@ -78,6 +78,7 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 <details>
 <summary>Build an Agile Team｜建立敏捷團隊</summary>	
 
++ 2026-06-16 [紙上資歷不再重要！Lovable高管曝高效團隊7大原則](https://www.bnext.com.tw/article/91252/ai-high-performance-teams-mindset-ego-ship-first-senior-builders)  
 + 2026-04-23 [為何有些主管能力一流，卻不會帶人？從「榮格心理學」找出領導者的決策盲點](https://www.managertoday.com.tw/columns/view/72028)  
 + 2026-03-31 [職場不是交朋友的地方！帶人 20 年，我最常送給離職者的 8 個建議](https://www.managertoday.com.tw/articles/view/71935)  
 + 2026-01-22 [日本導入「AI 上司」輔導員工！不罵人、秒回覆，為何 85% 員工更敢對 AI 說真話？](https://fc.bnext.com.tw/articles/view/4395)   
