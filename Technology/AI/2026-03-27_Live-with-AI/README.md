@@ -19,14 +19,16 @@
 <summary>市場機制｜Market Mechanisms</summary>
 
 + 2026-04-17 [諾貝爾獎得主嘆「AI商業化太快」：若多留實驗室幾年，人類可能已攻克癌症！](https://www.bnext.com.tw/article/90620/demis-hassabis-deepmind-ai)  
-+ 2026-03-09 [「謝謝建議，我回官網訂」：OpenAI 認了！人們就是不想在 ChatGPT 裡買東西](https://www.managertoday.com.tw/articles/view/71809)  
 
 </details>
 
 <details>
 <summary>智力極限｜Limits of Intelligence</summary>
 
-+ [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)
+![video](../../../img/youtube.svg) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
+
++ 2026-06-17 [不能只懂寫Code！Anthropic揭Vibe coding真相：比起coding，「本業知識」才是最大槓桿](https://www.bnext.com.tw/article/91272/anthropic-vibe-coding-2026)  
++ 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
 + 2026-03-10 [AI 產出很快，但會讓錯誤「看似合理」！台大教授提醒：你一定要把關 3 個維度](https://www.managertoday.com.tw/articles/view/71821)  
 + 2025-12-08 [AI 的最大危機不是幻覺，而是沒有「人類上網」後的資料枯竭](https://techorange.com/2025/12/08/amazon-perplexity-ai-browser-open-web/)  
 
@@ -37,11 +39,15 @@
 
 + 2016-07-01 [機器人三大法則太過簡單？微軟 CEO發表AI人工智慧的六大法則](https://www.techbang.com/posts/44430-three-laws-of-robotics-is-too-simple-google-ceo-made-ai-ten-principles)  
 
-AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace   
-+ 2026-06-22 [黃仁勳猛催token、企業AI帳單卻失控！微軟與Uber都踩煞車，「養AI比用人貴」現實已上演](https://www.bnext.com.tw/article/91045/ai-cost-token-agent)  
+</details>
+
+<details>
+<summary>AI必須取代人類的工作類型｜Types of Jobs That AI Must Replace</summary>
+
++ 2026-06-17 [坦承AI末日論言過其實！奧特曼改口「短期失業衝擊被高估」，算力短缺才是大問題](https://www.bnext.com.tw/article/91267/sam-altman-ai-compute-shortage)  
++ 2026-06-02 [黃仁勳猛催token、企業AI帳單卻失控！微軟與Uber都踩煞車，「養AI比用人貴」現實已上演](https://www.bnext.com.tw/article/91045/ai-cost-token-agent)  
 + 2026-04-17 [一個不像人的機器人，卻被亞馬遜納入75萬電商大軍！還攻進豐田產線](https://www.bnext.com.tw/article/90648/agility-digit-ai100)  
 + 2026-01-09 [台灣醫療院所智慧化趨勢的關鍵一步：讓「送餐機器人」成為最佳智慧照護助理](https://www.find.org.tw/indus_trend/browse/346f3af5ddce818e8f419cfad4b7ac57)   
-+ 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
 
 </details>
 
