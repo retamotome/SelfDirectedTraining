@@ -61,6 +61,6 @@ Passage M1000 預計將於 2025 年夏季上市。
 
 ## License｜授權條款
 
-![BY NC ND](../../../img/Cc-by-nc-sa.png)  
+![BY NC SA](../../../img/Cc-by-nc-sa.png)  
 Five Revolutionary Pillars Supporting AI © 2024 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-撐起AI的5個革命性「台柱」 © 2024 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+撐起AI的5個革命性「台柱」 © 2024 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
