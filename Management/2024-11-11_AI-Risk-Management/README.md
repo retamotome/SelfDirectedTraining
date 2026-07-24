@@ -23,5 +23,5 @@ Whether as individuals or as part of an organization or enterprise, it is import
 ## License｜授權條款
 
 ![BY NC SA](../../img/Cc-by-nc-sa.png)  
-AI 風險管理（法律篇） © 2024 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+AI 風險管理（法律篇） © 2024 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
 AI Risk Management (Legal Perspective)  © 2024 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  

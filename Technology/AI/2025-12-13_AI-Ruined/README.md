@@ -18,6 +18,6 @@ The term “liàn-siáu-uî” comes from Taiwanese (Taiwanese Hokkien) and mean
 	
 ![BY NC SA](../../../img/Cc-by-nc-sa.png)  
 Oh My! AI Has Gone Off Track Again! © 2025 by Jen Yuan Pan is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).  
-我的天！AI又歪了！ © 2025 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
+我的天！AI又歪了！ © 2025 作者 潘貞元（Reta Pan），採用  [姓名標示－非商業性－相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) 授權。  
 
 
