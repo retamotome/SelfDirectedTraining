@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/qyz635AeV1g" target="_blank">![video](../../../img/youtube.svg)</a><br> ☑️ Chinese 🔲 English 🔲 Japaness</sub><br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society |
+|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/qyz635AeV1g" target="_blank">![video](../../../img/YouTube_icon.gif)</a><br> ☑️ Chinese 🔲 English 🔲 Japaness</sub><br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society |
 
 ## Agenda｜大綱  
 + 市場機制｜Market Mechanisms  
@@ -25,7 +25,7 @@
 <details>
 <summary>智力極限｜Limits of Intelligence</summary>
 
-![video](../../../img/youtube.svg) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
+![video](../../../img/YouTube_icon.gif) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
 
 + 2026-06-17 [不能只懂寫Code！Anthropic揭Vibe coding真相：比起coding，「本業知識」才是最大槓桿](https://www.bnext.com.tw/article/91272/anthropic-vibe-coding-2026)  
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  

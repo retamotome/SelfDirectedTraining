@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=2X3Wmnmt50E" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=2X3Wmnmt50E" target="_blank">![video](../../../img/youtube.svg)</a><br> ☑️ Chinese ☑️ English ☑️ Japaness</sub><br>5分鐘「降伏其心」｜為何 AI 無法取代人類<br>“Taming the Mind” in 5 Minutes｜Why AI Cannot Replace Humans|
+|<a href="https://www.youtube.com/watch?v=2X3Wmnmt50E" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=2X3Wmnmt50E" target="_blank">![video](../../../img/YouTube_icon.gif)</a><br> ☑️ Chinese ☑️ English ☑️ Japaness</sub><br>5分鐘「降伏其心」｜為何 AI 無法取代人類<br>“Taming the Mind” in 5 Minutes｜Why AI Cannot Replace Humans|
 
 ## Description｜說明  
 AI 崛起的時候，公司的主管同事們、以及親朋好友們，難免有些擔心被 AI 取代工作。  
