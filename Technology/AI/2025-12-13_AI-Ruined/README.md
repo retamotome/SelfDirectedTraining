@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=5nE3A8pJu5M" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=5nE3A8pJu5M" target="_blank">![video](../../../img/YouTube_icon.gif)</a><br> ☑️ Chinese 🔲 English 🔲 Japaness</sub><br>人類遇到AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>本影片由真人真事改編。<br>When humans interact with AI, they go off-topic, tell jokes, act silly (“liàn-siáu-uî”), and play brain teasers! Liking every single one of them—and then AI becomes useless...<br>This video is based on real events.|
+|<a href="https://www.youtube.com/watch?v=5nE3A8pJu5M" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=5nE3A8pJu5M" target="_blank">![video](../../../img/YouTube_icon.gif)</a><br> ☑️ Chinese</sub><br>人類遇到AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>本影片由真人真事改編。<br>When humans interact with AI, they go off-topic, tell jokes, act silly (“liàn-siáu-uî”), and play brain teasers! Liking every single one of them—and then AI becomes useless...<br>This video is based on real events.|
 
 ## Description｜說明  
 影片中的「練肖維」，是台語（台灣話）裡「閒扯瞎聊」的意思。  

@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/M9GFgOZtxJU" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/M9GFgOZtxJU" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ Chinese ☑️ English 🔲 Japaness</sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
+|<a href="https://youtu.be/M9GFgOZtxJU" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/M9GFgOZtxJU" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ Chinese ☑️ English </sub><br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響 |
 
 ## Agenda｜大綱  
 + Why Artificial Intelligence (AI) Governance Is Now a Management Issue <br>為什麼人工智慧（AI）治理現在是管理議題
@@ -15,7 +15,9 @@
 + Review Gates <br>審查關卡
 
 
-## News and Reference｜參考資訊
+## News and Reference｜參考資訊  
++ 2026-08-12 [63% 員工坦承「AI 膨風」！每 6 人有一人說謊，全因「不演就被淘汰」的焦慮](https://www.managertoday.com.tw/articles/view/72598)  
++ 2026-08-08 [負和競爭如何走向正和？唐鳳端出「仁工智慧」六力框架，拆解 AI 市場鎖定效應](https://fc.bnext.com.tw/articles/view/4832)  
 + 2026-04-24 [別把工具當目標！為何將 AI 綁定員工考核，是管理上的一大盲點？](https://www.managertoday.com.tw/articles/view/72061)  
 + 2026-04-23 [AI全面轉型是美好幻覺？麥肯錫：企業關鍵流程只有20～30項](https://www.managertoday.com.tw/columns/view/72053)   
 + 2026-04-21 [「CEO 最重要的能力之一，就是承認自己錯了」多鄰國執行長為何撤回「AI 納入 KPI」政策？](https://www.managertoday.com.tw/articles/view/72041)  
