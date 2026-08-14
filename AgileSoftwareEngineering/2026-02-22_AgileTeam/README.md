@@ -19,7 +19,8 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 
 ## Self-Training｜自主訓練  
 🏆 [Agile Software Project Guide｜敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)  
-:star: [Project Initiation Phase｜專案啟動階段](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md) 
+:star: [Project Initiation Phase｜專案啟動階段](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md)   
+Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]()
 
 + [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
   + [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
@@ -32,18 +33,6 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 
 
 ## News and Reference｜參考資訊
-+ 🏆何飛鵬筆記系列 
-	+ [自慢：社長的成長學習筆記](https://www.books.com.tw/products/0010785520)  
-	+ [自慢2：主管私房學](https://www.books.com.tw/products/0010790813)  
-	+ [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
-	+ [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
-+ [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)  
-  + [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)  
-+ [Klartext: Sagen, was Sache ist. Machen, was weiterbringt. 2015](https://www.amazon.com/Klartext/dp/3869366583)  
-  + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
-+ [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
-  + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
-
 
 <details>
 <summary>Authority Matrix Framework｜權限矩陣框架</summary>
@@ -86,7 +75,26 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 + 2022-09-20 [面試員工時「以貌取人」該先注意哪個五官？從清末曾國藩挖掘人才的歷史學識人](https://www.managertoday.com.tw/books/view/65741)  
 + 2017-10-13 [如何找尋適合組織的千里馬？向孔子學識人 3 層次](https://www.managertoday.com.tw/articles/view/55165)  
 
-</details>
+</details>  
+
+### Further Reading｜延伸閱讀
+
++ [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)  
+  + [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)  
++ [Klartext: Sagen, was Sache ist. Machen, was weiterbringt. 2015](https://www.amazon.com/Klartext/dp/3869366583)  
+  + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
++ [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
+  + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
+
++ 何飛鵬筆記系列　　
+	+ [自慢：社長的成長學習筆記](https://www.books.com.tw/products/0010785520)  
+	+ [自慢2：主管私房學](https://www.books.com.tw/products/0010790813)  
+	+ [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
+	+ [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
+
+	> [!note]　　
+	> 何飛鵬先生所採用與分享的管理方式，適用 KPI、OKR 類型團隊，但並**不**適用高成熟度團隊。   
+	> The management style adopted and shared by Mr. He is suitable for KPI and OKR type teams, but it is **not** suitable for highly mature teams.
 
 ---
 
