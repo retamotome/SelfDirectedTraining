@@ -86,15 +86,19 @@ Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團�
 + [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
   + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
 
-+ 何飛鵬筆記系列　　
-	+ [自慢：社長的成長學習筆記](https://www.books.com.tw/products/0010785520)  
-	+ [自慢2：主管私房學](https://www.books.com.tw/products/0010790813)  
-	+ [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
-	+ [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
+<details>
+<summary>何飛鵬筆記系列</summary>	
 
-	> [!note]　　
-	> 何飛鵬先生所採用與分享的管理方式，適用 KPI、OKR 類型團隊，但並**不**適用高成熟度團隊。   
-	> The management style adopted and shared by Mr. He is suitable for KPI and OKR type teams, but it is **not** suitable for highly mature teams.
++ [自慢：社長的成長學習筆記](https://www.books.com.tw/products/0010785520)  
++ [自慢2：主管私房學](https://www.books.com.tw/products/0010790813)  
++ [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
++ [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
+
+> [!note]  
+> 何飛鵬先生所採用與分享的管理方式，適用 KPI、OKR 類型團隊，但並**不**適用高成熟度團隊。   
+> The management style adopted and shared by Mr. He is suitable for KPI and OKR type teams, but it is **not** suitable for highly mature teams.
+
+</details>  
 
 ---
 
