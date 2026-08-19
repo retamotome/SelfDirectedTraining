@@ -7,7 +7,7 @@
 
 ## Agenda｜大綱  
 + Introduction｜引言  
-+ Authority Matrix Framework｜權限矩陣框架  
++ Authority Matrix Framework｜權責矩陣框架  
 + ARCI Models｜4 種 ARCI 模型  
 + Cynefin Framework｜Cynefin 情境框架  
 + Build an Agile Team｜建立敏捷團隊  
@@ -35,7 +35,7 @@ Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團�
 ## News and Reference｜參考資訊
 
 <details>
-<summary>Authority Matrix Framework｜權限矩陣框架</summary>
+<summary>Authority Matrix Framework｜權責矩陣框架</summary>
 
 + 2026-06-15 [在前東家有效的管理方式，為何換了一家公司就失靈？](https://www.managertoday.com.tw/books/view/72336)  
 + 2026-04-08 [別把優秀人才放錯位置！孔子的用人哲學：不能只看才能，也要考慮性情](https://www.managertoday.com.tw/books/view/7196)  
