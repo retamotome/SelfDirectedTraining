@@ -9,9 +9,9 @@ Sharing knowledge in software engineering—covering process design, management 
 
 | Video | Description | Date |
 |:----|:----------|:--|
-| <a href="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/img/Thumbnail.png" width="200"></a> | [Lesson 01: Agile and Software Engineering Overview<br>敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md)<br>Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。<br> ☑️ Chinese ☑️ English  | 2025-11-09 |    
-| <a href="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/img/Thumbnail.png" width="200"></a> | [Lesson 02: Business Requirement Definition<br>商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md)<br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！<br> ☑️ Chinese ☑️ English | 2025-12-08 |  
-| <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ Chinese ☑️ English | 2026-02-22 |  
+| <a href="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/img/Thumbnail.png" width="200"></a> | [Lesson 01: Agile and Software Engineering Overview<br>敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md)<br>Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。<br> ☑️ English ☑️ Chinese   | 2025-11-09 |    
+| <a href="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/img/Thumbnail.png" width="200"></a> | [Lesson 02: Business Requirement Definition<br>商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md)<br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！<br> ☑️ English ☑️ Chinese  | 2025-12-08 |  
+| <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
 
 ---
 
@@ -23,8 +23,8 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 | Video | Description | Date |
 |:----|:----------|:--|
-|<a href="Management/2026-05-18_AIReflectMeasurement/README.md" target="_blank"><image src="Management/2026-05-18_AIReflectMeasurement/img/Thumbnail.png" width="200"></a> | [Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-18_AIReflectMeasurement/README.md)<br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響<br> ☑️ Chinese ☑️ English  | 2026-05-18 |
-| <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ Chinese ☑️ English | 2026-02-22 |  
+|<a href="Management/2026-05-18_AIReflectMeasurement/README.md" target="_blank"><image src="Management/2026-05-18_AIReflectMeasurement/img/Thumbnail.png" width="200"></a> | [Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-18_AIReflectMeasurement/README.md)<br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響<br> ☑️ English ☑️ Chinese   | 2026-05-18 |
+| <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
 | <a href="Management/2024-11-11_AI-Risk-Management/README.md" target="_blank"><image src="Management/2024-11-11_AI-Risk-Management/img/Thumbnail.png" width="200"></a> | [AI 風險管理（法律篇）<br>AI Risk Management (Legal Perspective) ](Management/2024-11-11_AI-Risk-Management/README.md)<br>企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！<br> Essential Legal Considerations Before Enterprise AI Adoption｜Key Pitfalls General Users Must Avoid!<br> ☑️ Chinese| 2024-11-11 |
 
 ---
@@ -36,7 +36,7 @@ Exploring software development through practical tips, key concepts, and knowled
 
 | Video | Description | Date |
 |:----|:----------|:--|
-| <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a> | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br> ☑️ Chinese ☑️ English  |2025-05-07|  
+| <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a> | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br> ☑️ English ☑️ Chinese   |2025-05-07|  
 
 ---
 

@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ Chinese ☑️ English </sub><br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！|
+|<a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=o6koE9T6jbQ" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ English ☑️ Chinese  </sub><br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！|
 
 ## Agenda｜大綱 
 + Important Notes｜重要說明
