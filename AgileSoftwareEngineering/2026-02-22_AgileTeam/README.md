@@ -95,8 +95,8 @@ Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團�
 + [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
 
 > [!note]  
-> 何飛鵬先生所採用與分享的管理方式，適用 KPI、OKR 類型團隊，但並**不**適用高成熟度團隊。   
-> The management style adopted and shared by Mr. He is suitable for KPI and OKR type teams, but it is **not** suitable for highly mature teams.
+> 何飛鵬先生所採用與分享的管理方式，適用 **低成熟度** 類型團隊，而並**不**適用高成熟度類型團隊。   
+> The management style adopted and shared by Mr. He is suitable for teams with a **low** level of maturity, but it is **not** suitable for highly mature teams.
 
 </details>  
 
