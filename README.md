@@ -2,6 +2,13 @@
 
 ![Self-Directed Training](./img/SelfDirectedTraining.png)
 
+## Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南  
+
+| Cover | Description | 
+|:----|:----------|
+| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
+| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations | 系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations)<br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
+
 ## Agile and Software Engineering｜敏捷與軟體工程
 
 分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
