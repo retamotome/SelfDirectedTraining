@@ -4,7 +4,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=cJpETo_4X0c" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=cJpETo_4X0c" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ English ☑️ Chinese  </sub><br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br><br>2008/07/09 First Edition.<br>2025/03/05 Second Edition. Added Chinese subtitle and ChatGPT section. |
+|<a href="https://www.youtube.com/watch?v=cJpETo_4X0c" target="_blank"><image src="img/Thumbnail.png" width="200"><br>Watch the video</a>| <sub><a href="https://www.youtube.com/watch?v=cJpETo_4X0c" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ English ☑️ Chinese  </sub><br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br><br>2008/07/09 First Edition.<br>2025/03/05 Second Edition. Added Chinese subtitle and ChatGPT section. |
 
 ---
 
