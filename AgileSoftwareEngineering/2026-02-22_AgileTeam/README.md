@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">![video](../../img/YouTube_icon.gif) Watch the video</a><br> ☑️ English ☑️ Chinese  </sub><br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！ |
+|<a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://youtu.be/Y8bl-_5-RnQ" target="_blank">![video](../../img/YouTube_icon.gif)</a><br> ☑️ English ☑️ Chinese  </sub><br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！ |
 
 ## Agenda｜大綱  
 + Introduction｜引言  

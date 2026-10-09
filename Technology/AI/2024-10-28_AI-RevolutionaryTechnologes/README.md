@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video | Description |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank">![video](../../../img/YouTube_icon.gif) Watch the video</a><br> ☑️ Chinese ☑️ English ☑️ Japaness</sub><br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！<br>Chip Breakthroughs Beyond Moore’s Law｜Nuclear Waste Batteries That Can Generate Power for 28,000 Years!|
+|<a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank"><image src="img/Thumbnail.png" width="200"></a>| <sub><a href="https://www.youtube.com/watch?v=AMDn1RCcqGM" target="_blank">![video](../../../img/YouTube_icon.gif)</a><br> ☑️ Chinese ☑️ English ☑️ Japaness</sub><br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！<br>Chip Breakthroughs Beyond Moore’s Law｜Nuclear Waste Batteries That Can Generate Power for 28,000 Years!|
 
 ## News and Reference｜參考資訊  
 ### Network
