@@ -27,6 +27,7 @@
 
 ![video](../../../img/YouTube_icon.gif) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
 
++ 2026-10-08 [導入 AI 就能少用一些人？福特重金回聘 350 名老將，才知道「應變經驗」省不得](https://www.managertoday.com.tw/columns/view/73082)   
 + 2026-06-17 [不能只懂寫Code！Anthropic揭Vibe coding真相：比起coding，「本業知識」才是最大槓桿](https://www.bnext.com.tw/article/91272/anthropic-vibe-coding-2026)  
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
 + 2026-03-10 [AI 產出很快，但會讓錯誤「看似合理」！台大教授提醒：你一定要把關 3 個維度](https://www.managertoday.com.tw/articles/view/71821)  
