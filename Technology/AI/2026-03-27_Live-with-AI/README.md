@@ -27,6 +27,7 @@
 
 ![video](../../../img/YouTube_icon.gif) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
 
++ 2026-10-20 [AI巨頭瘋狂掃書，台灣也是供應來源！563公噸書籍運美，揭開Anthropic神祕「巴拿馬計畫」](https://www.bnext.com.tw/article/92633/)   
 + 2026-10-08 [導入 AI 就能少用一些人？福特重金回聘 350 名老將，才知道「應變經驗」省不得](https://www.managertoday.com.tw/columns/view/73082)   
 + 2026-06-17 [不能只懂寫Code！Anthropic揭Vibe coding真相：比起coding，「本業知識」才是最大槓桿](https://www.bnext.com.tw/article/91272/anthropic-vibe-coding-2026)  
 + 2026-03-19 [AI把事做對、你決定什麼是「對」，為何微決策才是人類終極價值？](https://www.businessweekly.com.tw/Archive/Article?StrId=7013944)  
@@ -55,6 +56,7 @@
 <details>
 <summary>產業變革｜Industrial Transformation</summary>
 
++ 2026-10-15 [黃仁勳談台積電：選產品不如選夥伴，為何永遠要「留一點在桌上」？](https://www.bnext.com.tw/article/92645/)  
 + 2026-10-06 [賣馬達也能賺訂閱收入！東元電機如何把70年經驗接軌「預測性維護」，開吃工業AI大餅？](https://www.bnext.com.tw/article/92502/)    
 + 2026-03-24 [你以為技嘉只做主機板？在 AI 伺服器市場，它早就成為輝達點名的全球兩大供應商之一](https://www.managertoday.com.tw/articles/view/71890)  
 + 2026-01-14 [入選全球「人形機器人百強」！上銀科技的致勝心法：買不到的技術，就自己造](https://www.managertoday.com.tw/articles/view/7157)  
@@ -65,6 +67,10 @@
 <details>
 <summary>人生再進化｜The Next Evolution of Human Life</summary>
 
++ 2026-10-15 [拚到年薪千萬，他為何在 43 歲停下來？郝旭烈：財富階梯往上爬，不是為了什麼都買得起](https://www.managertoday.com.tw/articles/view/73113)   
++ 2026-10-15 [錢愈多，煩惱就愈少嗎？看懂「財富階梯」，每一階的煩惱都不一樣](https://www.managertoday.com.tw/articles/view/73116)  
++ 2026-10-14 [一直在安撫別人，其實是受不了自己的不舒服！《隨他們去》談討好背後的真相](https://www.managertoday.com.tw/columns/view/73103)   
++ 2026-10-14 [壓力大，就去「抱樹」吧！研究證實：抱樹能緩解壓力、調整心情](https://www.managertoday.com.tw/eightylife/article/view/1994)   
 + 2026-06-30 [中年危機很難熬，但不是來毀掉你的！心理學家：這段低谷正在替你準備 3 種能力](https://www.managertoday.com.tw/articles/view/72347)   
 + 2026-06-16 [翹一次課才發現，世界不會因此崩潰！Google 執行長皮蔡用 3 個標準，過濾人生的雜訊](https://www.managertoday.com.tw/articles/view/72349)  
 + 2026-06-03 [中年以後，感覺日子愈過愈快？3 個練習，幫你看清時間真正去了哪裡](https://www.managertoday.com.tw/columns/view/72262)  
