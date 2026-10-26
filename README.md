@@ -10,7 +10,7 @@
 
 ---
 
-## Agile and Software Engineering｜敏捷與軟體工程
+## Software Engineering｜軟體工程
 
 分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
 Sharing knowledge in software engineering—covering process design, management techniques, CI/CD, agile practices, and various frameworks—to help you master the core essentials of development and management.  
@@ -19,7 +19,7 @@ Sharing knowledge in software engineering—covering process design, management 
 |:----|:----------|:--|
 | <a href="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/img/Thumbnail.png" width="200"></a> | [Lesson 01: Agile and Software Engineering Overview<br>敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md)<br>Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。<br> ☑️ English ☑️ Chinese   | 2025-11-09 |    
 | <a href="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/img/Thumbnail.png" width="200"></a> | [Lesson 02: Business Requirement Definition<br>商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md)<br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！<br> ☑️ English ☑️ Chinese  | 2025-12-08 |  
-| <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
+
 
 ---
 
