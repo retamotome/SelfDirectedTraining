@@ -42,6 +42,10 @@ Insights into software management, risk control, cybersecurity governance, and p
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
 
+| Video | Description | 
+|:-----|:-------|
+| <a href="https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesign.md" target="_blank"><image src="https://github.com/retamotome/retamotome/raw/main/open-courseware/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesign.md)<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, and understanding the interactions between components, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole.<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，以及理解系統元件之間的交互作用，培養學習者洞察問題根源、化繁為簡，並尋找能夠優化整體系統的有效解決方案之能力。<br> ☑️ Chinese  |  
+
 ---
 
 
