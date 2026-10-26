@@ -2,12 +2,11 @@
 
 ![Self-Directed Training](./img/SelfDirectedTraining.png)
 
-## Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南  
+## Agile and Software Project | 敏捷與軟體專案
 
-| Cover | Description | 
+| Guidance | Description | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
-| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
 
 ---
 
@@ -24,7 +23,6 @@ Sharing knowledge in software engineering—covering process design, management 
 
 ---
 
-
 ## Management｜管理
 
 分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。  
@@ -38,7 +36,16 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 ---
 
-## Software Development｜軟體開發  
+## System Design｜系統設計
+
+| Guidance | Description | 
+|:-----|:-------|
+| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
+
+---
+
+
+### Software Development｜軟體開發  
 
 探索軟體開發的技巧、觀念與知識分享，帶你掌握實務精華，拓展開發思維。  
 Exploring software development through practical tips, key concepts, and knowledge sharing—helping you master essential skills and broaden your development mindset.  
