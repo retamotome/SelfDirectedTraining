@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|
-|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"><br>Watch the video.</a> | <sub><a href="https://youtu.be/qyz635AeV1g" target="_blank">![video](../../../img/YouTube_icon.gif) </a><br> ☑️ Chinese</sub><br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society |
+|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"><br>Watch the video.</a> | <sub><a href="https://youtu.be/qyz635AeV1g" target="_blank">![video](../../../img/YouTube_icon.png) </a><br> ☑️ Chinese</sub><br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society |
 
 ## Agenda｜大綱  
 + 市場機制｜Market Mechanisms  
@@ -25,7 +25,7 @@
 <details>
 <summary>智力極限｜Limits of Intelligence</summary>
 
-![video](../../../img/YouTube_icon.gif) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
+![video](../../../img/YouTube_icon.png) [AI 的智力極限](../2024-11-05_The-Intellectual-Limits-of-AI/README.md)  
 
 + 2026-10-20 [AI巨頭瘋狂掃書，台灣也是供應來源！563公噸書籍運美，揭開Anthropic神祕「巴拿馬計畫」](https://www.bnext.com.tw/article/92633/)   
 + 2026-10-08 [導入 AI 就能少用一些人？福特重金回聘 350 名老將，才知道「應變經驗」省不得](https://www.managertoday.com.tw/columns/view/73082)   
