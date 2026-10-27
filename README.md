@@ -4,18 +4,18 @@
 
 ## Agile and Software Project | 敏捷與軟體專案
 
-| Guidance | Description | 
+| Guidance 指引 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
 
 ---
 
-## Software Engineering｜軟體工程
+### Software Engineering｜軟體工程
 
 分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
 Sharing knowledge in software engineering—covering process design, management techniques, CI/CD, agile practices, and various frameworks—to help you master the core essentials of development and management.  
 
-| Video | Description | Date |
+| Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
 | <a href="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/img/Thumbnail.png" width="200"></a> | [Lesson 01: Agile and Software Engineering Overview<br>敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md)<br>Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。<br> ☑️ English ☑️ Chinese   | 2025-11-09 |    
 | <a href="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/img/Thumbnail.png" width="200"></a> | [Lesson 02: Business Requirement Definition<br>商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md)<br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！<br> ☑️ English ☑️ Chinese  | 2025-12-08 |  
@@ -23,12 +23,12 @@ Sharing knowledge in software engineering—covering process design, management 
 
 ---
 
-## Management｜管理
+### Management｜管理
 
 分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。  
 Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.  
 
-| Video | Description | Date |
+| Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
 |<a href="Management/2026-05-18_AIReflectMeasurement/README.md" target="_blank"><image src="Management/2026-05-18_AIReflectMeasurement/img/Thumbnail.png" width="200"></a> | [Measuring AI’s Impact on Teams <br>AI 效益評鑑指標](Management/2026-05-18_AIReflectMeasurement/README.md)<br>Measuring and Governing Artificial Intelligence (AI) Impact on Team Performance <br>衡量與治理人工智慧（AI）對團隊績效的影響<br> ☑️ English ☑️ Chinese   | 2026-05-18 |
 | <a href="AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a> | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
@@ -36,13 +36,13 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 ---
 
-## System Design｜系統設計
+### System Design｜系統設計
 
-| Guidance | Description | 
+| Guidance 指引 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
 
-| Video | Description | 
+| Video 影片 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesign.md" target="_blank"><image src="https://github.com/retamotome/retamotome/raw/main/open-courseware/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesign.md)<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole. <br> ☑️ Chinese  |  
 
@@ -54,7 +54,7 @@ Insights into software management, risk control, cybersecurity governance, and p
 探索軟體開發的技巧、觀念與知識分享，帶你掌握實務精華，拓展開發思維。  
 Exploring software development through practical tips, key concepts, and knowledge sharing—helping you master essential skills and broaden your development mindset.  
 
-| Video | Description | Date |
+| Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
 | <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a> | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br> ☑️ English ☑️ Chinese   |2025-05-07|  
 
@@ -65,7 +65,7 @@ Exploring software development through practical tips, key concepts, and knowled
 分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。  
 Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom.  
 
-| Video | Description | Date |
+| Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
 | <a href="https://youtu.be/Z-Ml2jpvTCQ" target="_blank"><image src="PersonalReflections/img/FourNobleTruths.png" width="200"></a> |  [佛陀的策略課：四聖諦<br>The Buddha’s Strategy Lesson: The Four Noble Truths ](https://youtu.be/Z-Ml2jpvTCQ)<br>最直白精闢的究竟解脫之路｜安定自心的強大力量｜人生苦海的真正原因<br>The Most Direct Path to Ultimate Liberation｜The Powerful Force of Inner Stability｜The True Cause of Life’s Suffering<br> ☑️ Chinese | 2024-12-17 |  
 | <a href="https://youtu.be/1yBwxDKRZQc" target="_blank"><image src="PersonalReflections/img/Master-Shengyan.png" width="200"></a> |  [聖嚴法師的眾願成就理念之一： 四它<br>One of Master Sheng Yen’s Concepts of Fulfilling Collective Aspirations: The Four “Its”](https://youtu.be/1yBwxDKRZQc)<br>最直白精闢的解釋與例證｜人生苦海的真正原因。<br>The Most Clear and Insightful Explanations with Examples｜The True Cause of Life’s Suffering<br> ☑️ Chinese | 2024-12-27 |  
@@ -78,7 +78,7 @@ Sharing life philosophy and personal reflections, exploring perspectives and ide
 Exploring science and technology through knowledge sharing, in-depth analysis, and thoughtful observations—guiding you to grasp cutting-edge insights and broaden your perspective.  
 
 ### AI
-| Video | Description | Date |
+| Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
 | <a href="Technology/AI/2026-03-27_Live-with-AI/README.md" target="_blank"><image src="Technology/AI/2026-03-27_Live-with-AI/img/Thumbnail.png" width="200"></a> | [AI 趨勢觀察<br>AI Trends Observation](Technology/AI/2026-03-27_Live-with-AI/README.md)<br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society<br> ☑️ Chinese | 2026-03-27 |
 | <a href="Technology/AI/2025-12-13_AI-Ruined/README.md" target="_blank"><image src="Technology/AI/2025-12-13_AI-Ruined/img/Thumbnail.png" width="200"></a> | [我的天！AI又歪了！<br>Oh My! AI Has Gone Off Track Again!](Technology/AI/2025-12-13_AI-Ruined/README.md)<br>人類遇到 AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>When Humans Meet AI: Going Off-Topic, Telling Jokes, Acting Silly, and Playing Brain Teasers! Like Every One of Them—and AI Becomes Useless...<br>本影片由真人真事改編。<br>This video is based on real events.<br> ☑️ Chinese| 2025-12-13 |
