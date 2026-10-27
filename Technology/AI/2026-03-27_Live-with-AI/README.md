@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|
-|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"><br>Watch the video.</a> | <sub><a href="https://youtu.be/qyz635AeV1g" target="_blank">![video](../../../img/YouTube_icon.png) </a><br> ☑️ Chinese</sub><br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society |
+|<a href="https://youtu.be/qyz635AeV1g" target="_blank"><image src="img/Thumbnail.png" width="200"><br>![video](../../../img/YouTube_icon.png) Watch the video</a> | 市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society<br> ☑️ Chinese |
 
 ## Agenda｜大綱  
 + 市場機制｜Market Mechanisms  

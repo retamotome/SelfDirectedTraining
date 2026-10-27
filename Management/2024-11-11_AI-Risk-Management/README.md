@@ -3,7 +3,7 @@
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|
-|<a href="https://www.youtube.com/watch?v=95eW11lOVcQ" target="_blank"><image src="img/Thumbnail.png" width="200"><br>Watch the video.</a> | <sub><a href="https://www.youtube.com/watch?v=95eW11lOVcQ" target="_blank">![video](../../img/YouTube_icon.png) </a><br> ☑️ Chinese</sub><br>企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！<br>Essential Legal Considerations Before Enterprise AI Adoption | Key Pitfalls General Users Must Avoid!|
+|<a href="https://www.youtube.com/watch?v=95eW11lOVcQ" target="_blank"><image src="img/Thumbnail.png" width="200"><br>![video](../../img/YouTube_icon.png) Watch the video</a> | 企業導入 AI 前一定要知道的法律重點｜一般使用者也千萬別踩雷！<br>Essential Legal Considerations Before Enterprise AI Adoption｜Key Pitfalls General Users Must Avoid! <br> ☑️ Chinese|
 
 ## Description｜說明  
 目前美國與歐盟一直在持續針對人工智慧立法規範，涵蓋的範圍越來越廣，並涉及到一般使用者的各種 AI 應用。  
