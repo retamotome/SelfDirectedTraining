@@ -38,9 +38,9 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 ### System Design｜系統設計
 
-| Guidance 指引 | Description 說明 | 
+| Guidance 指南 | Description 說明 | 
 |:-----|:-------|
-| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/BusinessDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/tree/main/BusinessDevelopmentPhase/System-Design-Considerations) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
+| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/SoftwareDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
 
 | Video 影片 | Description 說明 | 
 |:-----|:-------|
