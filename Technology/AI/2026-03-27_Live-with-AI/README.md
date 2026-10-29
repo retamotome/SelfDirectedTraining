@@ -58,6 +58,7 @@
 
 + 2026-10-15 [黃仁勳談台積電：選產品不如選夥伴，為何永遠要「留一點在桌上」？](https://www.bnext.com.tw/article/92645/)  
 + 2026-10-06 [賣馬達也能賺訂閱收入！東元電機如何把70年經驗接軌「預測性維護」，開吃工業AI大餅？](https://www.bnext.com.tw/article/92502/)    
++ 2026-07-07 [邊緣人工智慧（Edge AI）開啟自主農業新局](https://www.find.org.tw/indus_trend/browse/1c3bbf4c54f61cae3b073b15a1a063da)   
 + 2026-03-24 [你以為技嘉只做主機板？在 AI 伺服器市場，它早就成為輝達點名的全球兩大供應商之一](https://www.managertoday.com.tw/articles/view/71890)  
 + 2026-01-14 [入選全球「人形機器人百強」！上銀科技的致勝心法：買不到的技術，就自己造](https://www.managertoday.com.tw/articles/view/7157)  
 + 2025-03-19 [無人計程車時代來臨！Waymo、特斯拉戰火升溫，2大巨頭的戰略佈局有何不同？](https://www.bnext.com.tw/article/82597/2025-waymo-and-tesla)  
