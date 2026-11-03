@@ -44,7 +44,7 @@ Exploring software development through practical tips, key concepts, and knowled
 
 | Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
-| <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a>   | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br>Extremely Clean Code is an art. <br>Discard everything unnecessary and handle it in an extremely refined way.<br>Extremely Clean Code 是一門藝術。<br>捨棄沒有必要的一切事物，以極緻精煉的方式來處理。<br> ☑️ English ☑️ Chinese   |2025-05-07|  
+| <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a>   | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br>Extremely Clean Code is an art. Discard everything unnecessary and handle it in an extremely refined way.<br>Extremely Clean Code 是一門藝術。捨棄沒有必要的一切事物，以極緻精煉的方式來處理。<br> ☑️ English ☑️ Chinese   |2025-05-07|  
 
 ---
 
