@@ -7,7 +7,7 @@
 | Guidance 指引 | Description 說明 | 
 |:-----|:-------|
 | <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
-| <a href="./Management/README.md" target="_blank"><image src="./Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management｜吉祥院管理學院](./Management/README.md)<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br> ☑️ English ☑️ Chinese  |  
+| <a href="./Management/README.md" target="_blank"><image src="./Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management｜吉祥院管理學院](./Management/README.md)<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br> ☑️ English ☑️ Chinese  |  
 
 ---
 

@@ -4,8 +4,8 @@
 
 ## Overview｜概覽  
 
-分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。  
 Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.  
+分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。  
 
 ## Team Management｜團隊管理  
 
