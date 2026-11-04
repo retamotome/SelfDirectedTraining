@@ -1,5 +1,7 @@
 # Measuring AI’s Impact on Teams｜AI 效益評鑑指標  
 
+[![Management](../img/mgt_cover.png)](../README.md)
+
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|

@@ -1,4 +1,6 @@
-# AI 風險管理（法律篇）｜AI Risk Management (Legal Perspective) 
+# AI 風險管理（法律篇）｜AI Risk Management (Legal Perspective)   
+
+[![Management](../img/mgt_cover.png)](../README.md)
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
