@@ -1,4 +1,6 @@
-# Lesson 02: Business Requirement Definition｜商業需求定義
+# Lesson 02: Business Requirement Definition｜商業需求定義  
+
+[![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |

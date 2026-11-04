@@ -1,5 +1,6 @@
-# Extremely Clean Code｜極致精煉程式碼的範例
+# Extremely Clean Code｜極致精煉程式碼的範例  
 
+[![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
