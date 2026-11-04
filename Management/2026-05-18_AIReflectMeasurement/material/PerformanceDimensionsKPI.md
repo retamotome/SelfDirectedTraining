@@ -1,4 +1,4 @@
-# The Four Performance Dimensions KPI Model｜四大績效維度關鍵績效指標模型   
+# The Four Performance Dimensions KPI Model  <br>四大績效維度關鍵績效指標模型   
 
 [![Management](../../img/mgt_cover.png)](../../README.md)
 

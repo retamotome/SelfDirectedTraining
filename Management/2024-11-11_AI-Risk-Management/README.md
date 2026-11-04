@@ -1,4 +1,4 @@
-# AI 風險管理（法律篇）｜AI Risk Management (Legal Perspective)   
+# AI 風險管理（法律篇）  <br>AI Risk Management (Legal Perspective)   
 
 [![Management](../img/mgt_cover.png)](../README.md)
 

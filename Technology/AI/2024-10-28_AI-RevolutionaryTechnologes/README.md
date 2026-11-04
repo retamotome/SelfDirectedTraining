@@ -1,4 +1,4 @@
-# 撐起AI的5個革命性「台柱」｜Five Revolutionary Pillars Supporting AI
+# 撐起AI的5個革命性「台柱」  <br>Five Revolutionary Pillars Supporting AI  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |

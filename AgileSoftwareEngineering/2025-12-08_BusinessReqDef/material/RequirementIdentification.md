@@ -1,4 +1,4 @@
-# Requirement Identification｜需求識別  
+# Requirement Identification  <br>需求識別  
 
 [![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
 

@@ -1,4 +1,4 @@
-# General Considerations｜通用考量項目  
+# General Considerations  <br>通用考量項目  
 
 [![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
 

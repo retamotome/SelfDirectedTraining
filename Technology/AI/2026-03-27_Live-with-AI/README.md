@@ -1,4 +1,4 @@
- AI 趨勢觀察｜AI Trends Observation
+# AI 趨勢觀察  <br>AI Trends Observation  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |

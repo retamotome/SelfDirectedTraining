@@ -1,4 +1,4 @@
-# Lesson 01: Agile and Software Engineering｜敏捷與軟體工程全覽  
+# Lesson 01: Agile and Software Engineering  <br>敏捷與軟體工程全覽  
 
 [![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
 

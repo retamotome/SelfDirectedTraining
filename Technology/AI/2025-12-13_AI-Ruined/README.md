@@ -1,4 +1,4 @@
-# 我的天！AI又歪了！｜Oh My! AI Has Gone Off Track Again!
+# 我的天！AI又歪了！  <br>Oh My! AI Has Gone Off Track Again!  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |

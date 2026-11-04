@@ -1,4 +1,4 @@
-# AI 的智力極限｜The Limits of AI Intelligence
+# AI 的智力極限  <br>The Limits of AI Intelligence  
 
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |

@@ -1,4 +1,4 @@
-# Measuring AI’s Impact on Teams｜AI 效益評鑑指標  
+# Measuring AI’s Impact on Teams  <br>AI 效益評鑑指標  
 
 [![Management](../img/mgt_cover.png)](../README.md)
 
