@@ -11,7 +11,7 @@ Insights into software management, risk control, cybersecurity governance, and p
 
 | Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
-| <a href="../AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md" target="_blank"><image src="../AgileSoftwareEngineering/2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a>   | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](../AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
+| <a href="2026-02-22_AgileTeam/README.md" target="_blank"><image src="2026-02-22_AgileTeam/img/Thumbnail.png" width="200"></a>   | [Agile Team：Identification and Management<br>敏捷團隊：識別與管理](2026-02-22_AgileTeam/README.md)<br>Four Team Types Mapped to Four ARCI Management Models, Applicable to Five Task Assignment Scenarios: Build and Manage Agile Teams Effectively!<br>４大團隊類型，對應４種 ARCI 管理模型，適用５大情境任務指派。正確地打造與管理敏捷團隊！<br> ☑️ English ☑️ Chinese  | 2026-02-22 |  
 
 ---
 
