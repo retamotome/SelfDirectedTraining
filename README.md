@@ -64,7 +64,7 @@ Exploring science and technology through knowledge sharing, in-depth analysis, a
 
 | Guidance 指南 | Description 說明 | 
 |:-----|:-------|
-| <a href="./PersonalReflections/README.md" target="_blank"><image src="./PersonalReflections/img/life_cover.png" width="200"></a> | [吉祥院　日日好日　實踐所](./PersonalReflections/README.md) <br>分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。<br>Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom. <br> ☑️ English ☑️ Chinese  |
+| <a href="./PersonalReflections/README.md" target="_blank"><image src="./PersonalReflections/img/life_cover.png" width="200"></a> | [吉祥院　日日好日　實踐所](./PersonalReflections/README.md) <br>分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。<br>Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom. <br> ☑️ Chinese  |
 
 ---
 
