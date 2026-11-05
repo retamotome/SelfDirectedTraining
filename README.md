@@ -1,69 +1,14 @@
-# Reta's Self-Directed Learning Guide  <br>Reta 的自主學習指南
+# Reta's Self-Directed Learning Guide  <br>Reta 的自主學習指南  
 
-![Self-Directed Training](./img/SelfDirectedTraining.png)
+[![Self-Directed Training](./img/SelfDirectedTraining.png)](README.md)  
 
-## Agile and Software Project | 敏捷與軟體專案
+## Overview｜概覽  
 
-| Guidance 指引 | Description 說明 | 
+| Discipline 領域 | Description 說明 | 
 |:-----|:-------|
-| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/img/AgileSoftwareProjectGuide.png" width="200"></a> | [Reta's Agile Software Project Guide｜Reta 的敏捷軟體專案指南](https://github.com/retamotome/AgileSoftwareProjectGuide)<br>A concise, phase-based guide for planning and executing Agile software projects. This repository documents each project phase, recommended practices, and links to supporting videos and artifacts.<br>本指南提供以「階段」為主軸的精簡指南，說明如何規劃與執行敏捷軟體專案。本儲存庫涵蓋各專案階段、建議實務，以及相關教學影片與產出文件連結。<br> ☑️ English ☑️ Chinese  |  
-| <a href="./Management/README.md" target="_blank"><image src="./Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management｜吉祥院管理學院](./Management/README.md)<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br> ☑️ English ☑️ Chinese  |  
-
----
-
-### Software Engineering｜軟體工程
-
-分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  
-Sharing knowledge in software engineering—covering process design, management techniques, CI/CD, agile practices, and various frameworks—to help you master the core essentials of development and management.  
-
-| Video 影片 | Description 說明 | Date 日期 |
-|:----|:----------|:--|
-| <a href="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/img/Thumbnail.png" width="200"></a>   | [Lesson 01: Agile and Software Engineering Overview<br>敏捷與軟體工程全覽](AgileSoftwareEngineering/2025-11-09_AgileProjectMgt/README.md)<br>Processes, History, Scope, Comparisons, and Its Impact on Project Management and PDCA<br>敏捷與軟體工程全覽｜敏捷的流程、歷史、應用範圍與比較，以及它如何影響專案管理與PDCA。<br> ☑️ English ☑️ Chinese   | 2025-11-09 |    
-| <a href="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-12-08_BusinessReqDef/img/Thumbnail.png" width="200"></a>   | [Lesson 02: Business Requirement Definition<br>商業需求定義](AgileSoftwareEngineering/2025-12-08_BusinessReqDef/README.md)<br>From Concepts to Practice: A Complete Guide!<br>從觀念到實務．完全攻略！<br> ☑️ English ☑️ Chinese  | 2025-12-08 |  
-
-
----
-
-### System Design｜系統設計
-
-| Guidance 指南 | Description 說明 | 
-|:-----|:-------|
-| <a href="https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md" target="_blank"><image src="https://github.com/retamotome/AgileSoftwareProjectGuide/raw/main/SoftwareDevelopmentPhase/img/PracticalSystemDesignConsiderations.png" width="200"></a> | [Practical System Design Considerations｜系統設計實務考量](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/SoftwareDevelopmentPhase/System-Design-Considerations/README.md) <br>This section provides a concise overview of key reliability strategies and general considerations essential during the Requirement Analysis phase of software engineering and project management, along with practical tips based on my real-world experience.<br>本章節提供在軟體工程與專案管理的需求分析階段中，關鍵可靠性策略與一般考量的簡要概述，並附上我在實務經驗中的一些實用建議。<br> ☑️ English ☑️ Chinese  |
-| <a href="https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesignPhilosophy/SystemDesign.md" target="_blank"><image src="https://github.com/retamotome/retamotome/raw/main/open-courseware/SystemDesignPhilosophy/img/SystemDesignPhilosophy.png" width="200"></a> | [以四大關鍵思維看系統設計哲學](https://github.com/retamotome/retamotome/blob/main/open-courseware/SystemDesignPhilosophy/SystemDesign.md)<br>本課程結合系統思維、軟體工程原則與跨領域觀點，探索系統設計的核心。透過挑戰既有假設、分析取捨，培養學習者洞察問題根源、化繁為簡，並尋找能夠最佳化整體系統的有效解決方案之能力。<br>This course explores system design through systems thinking, software engineering principles, and interdisciplinary perspectives. By challenging conventional assumptions, analyzing trade-offs, learners will develop the ability to identify root causes, simplify complexity, and discover effective solutions that optimize the system as a whole. <br> ☑️ Chinese  |  
-
----
-
-
-### Software Development｜軟體開發  
-
-探索軟體開發的技巧、觀念與知識分享，帶你掌握實務精華，拓展開發思維。  
-Exploring software development through practical tips, key concepts, and knowledge sharing—helping you master essential skills and broaden your development mindset.  
-
-| Video 影片 | Description 說明 | Date 日期 |
-|:----|:----------|:--|
-| <a href="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md" target="_blank"><image src="AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/img/Thumbnail.png" width="200"></a>   | [Extremely Clean Code<br>極致精煉程式碼的範例](AgileSoftwareEngineering/2025-05-07_ExtremelyCleanCode/README.md)<br>Code Beyond AI’s Reach<br>AI 無法超越的程式碼<br>Extremely Clean Code is an art. Discard everything unnecessary and handle it in an extremely refined way.<br>Extremely Clean Code 是一門藝術。捨棄沒有必要的一切事物，以極緻精煉的方式來處理。<br> ☑️ English ☑️ Chinese   |2025-05-07|  
-
----
-
-## Technology｜科學與科技
-
-探索科學與科技的知識分享、深入分析與觀察，帶你掌握前沿洞見，拓展思維視野。  
-Exploring science and technology through knowledge sharing, in-depth analysis, and thoughtful observations—guiding you to grasp cutting-edge insights and broaden your perspective.  
-
-### AI
-| Video 影片 | Description 說明 | Date 日期 |
-|:----|:----------|:--|
-| <a href="Technology/AI/2026-03-27_Live-with-AI/README.md" target="_blank"><image src="Technology/AI/2026-03-27_Live-with-AI/img/Thumbnail.png" width="200"></a>   | [AI 趨勢觀察<br>AI Trends Observation](Technology/AI/2026-03-27_Live-with-AI/README.md)<br>市場機制、產業變革、人類世界的全面反思<br>Market Mechanisms, Industrial Transformation, and a Comprehensive Reflection on Human Society<br> ☑️ Chinese | 2026-03-27 |
-| <a href="Technology/AI/2025-12-13_AI-Ruined/README.md" target="_blank"><image src="Technology/AI/2025-12-13_AI-Ruined/img/Thumbnail.png" width="200"></a>   | [我的天！AI又歪了！<br>Oh My! AI Has Gone Off Track Again!](Technology/AI/2025-12-13_AI-Ruined/README.md)<br>人類遇到 AI，歪樓、講笑話、練肖維、腦筋急轉彎！每個都按讚！ AI就廢了．．．<br>When Humans Meet AI: Going Off-Topic, Telling Jokes, Acting Silly, and Playing Brain Teasers! Like Every One of Them—and AI Becomes Useless...<br>本影片由真人真事改編。<br>This video is based on real events.<br> ☑️ Chinese| 2025-12-13 |
-| <a href="Technology/AI/2024-11-05_The-Intellectual-Limits-of-AI/README.md" target="_blank"><image src="Technology/AI/2024-11-05_The-Intellectual-Limits-of-AI/img/Thumbnail.png" width="200"></a>   |[The Limits of AI Intelligence<br>AI 的智力極限](Technology/AI/2024-11-05_The-Intellectual-Limits-of-AI/README.md)<br>5分鐘「降伏其心」｜為何 AI 無法取代人類<br>“Taming the Mind” in 5 Minutes｜Why AI Cannot Replace Humans<br> ☑️ Chinese ☑️ English ☑️ Japaness| 2024-11-05 |
-| <a href="Technology/AI/2024-10-28_AI-RevolutionaryTechnologes/README.md" target="_blank"><image src="Technology/AI/2024-10-28_AI-RevolutionaryTechnologes/img/Thumbnail.png" width="200"></a>   |[Five Revolutionary Pillars Supporting AI<br>撐起AI的5個革命性「台柱」](Technology/AI/2024-10-28_AI-RevolutionaryTechnologes/README.md)<br>晶片突破摩爾定律｜核廢料電池可發電2.8萬年！<br>Chip Breakthroughs Beyond Moore’s Law｜Nuclear Waste Batteries That Can Generate Power for 28,000 Years!<br> ☑️ Chinese ☑️ English ☑️ Japaness| 2024-10-28 |
-
----
-
-## Personal Reflections｜人生心得
-
-| Guidance 指南 | Description 說明 | 
-|:-----|:-------|
+| <a href="./AgileSoftwareEngineering/README.md" target="_blank"><image src="./AgileSoftwareEngineering/img/sw_cover.png" width="200"></a> | [Auspicious Software Engineering Research Center<br>吉祥院軟體工程研究中心](./AgileSoftwareEngineering/README.md)<br>Sharing knowledge in software engineering—covering process design, management techniques, CI/CD, agile practices, and various frameworks—to help you master the core essentials of development and management.<br>分享軟體工程相關知識，涵蓋流程設計、管理技術、CI/CD、敏捷方法與各種框架，帶你全面掌握開發與管理的核心要點。  <br> ☑️ English ☑️ Chinese  |
+| <a href="./Management/README.md" target="_blank"><image src="./Management/img/mgt_cover.png" width="200"></a> | [Auspicious Academy of Management<br>吉祥院管理學院](./Management/README.md)<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br> ☑️ English ☑️ Chinese  |
+| <a href="./Technology/README.md" target="_blank"><image src="./Technology/img/tech_cover.png" width="200"></a> | [Auspicious Science and Technology Research Laboratory<br>吉祥院科學與科技研究室](./Technology/READ.ME.md)<br>Insights into software management, risk control, cybersecurity governance, and project management—helping you grasp the key principles of management and governance.<br>分享軟體管理、風險控管、資安治理與專案管理的知識與實務心得，帶你深入探索管理與治理的核心要點。<br> ☑️ English ☑️ Chinese  |
 | <a href="./PersonalReflections/README.md" target="_blank"><image src="./PersonalReflections/img/life_cover.png" width="200"></a> | [吉祥院　日日好日　實踐所](./PersonalReflections/README.md) <br>分享生活哲學與人生心得，探索超越宗教束縛的觀點與思路，帶你開拓更自由的思維視野。<br>Sharing life philosophy and personal reflections, exploring perspectives and ideas that transcend religious constraints—inviting you to broaden your mind with greater freedom. <br> ☑️ Chinese  |
 
 ---

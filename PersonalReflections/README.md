@@ -1,6 +1,6 @@
 # 吉祥院　日日好日　實踐所  
 
-![Wonderful Life](./img/life_cover.png)  
+[![Wonderful Life](./img/life_cover.png)](README.md)  
 
 ## Overview｜概覽  
 

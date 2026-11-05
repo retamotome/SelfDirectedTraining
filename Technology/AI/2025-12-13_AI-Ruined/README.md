@@ -1,5 +1,7 @@
 # 我的天！AI又歪了！  <br>Oh My! AI Has Gone Off Track Again!  
 
+[![Science and Technology](../../img/tech_cover.png)](../../READ.ME.md)  
+
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|

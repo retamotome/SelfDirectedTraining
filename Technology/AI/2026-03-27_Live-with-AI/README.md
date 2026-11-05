@@ -1,5 +1,7 @@
 # AI 趨勢觀察  <br>AI Trends Observation  
 
+[![Science and Technology](../../img/tech_cover.png)](../../READ.ME.md)  
+
 ## Introduction Video｜介紹影片
 | Video 影片 | Description 說明 |
 |:--|:----------|

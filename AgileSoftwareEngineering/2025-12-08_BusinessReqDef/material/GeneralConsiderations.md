@@ -1,6 +1,6 @@
 # General Considerations  <br>通用考量項目  
 
-[![吉祥院軟體工程研究中心](https://github.com/retamotome/retamotome/raw/main/img/ResearchCenter.png)](https://github.com/retamotome/retamotome)  
+[![Software Engineering](../../img/sw_cover.png)](../../README.md)  
 
 General considerations for requirements of a software product may include:  
 軟體產品需求的通用考量可能包括：  
