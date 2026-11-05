@@ -1,6 +1,6 @@
 # Auspicious Software Engineering Research Center  <br>吉祥院軟體工程研究中心  
 
-![Software Engineering](./img/sw_cover.png)  
+[![Software Engineering](./img/sw_cover.png)](README.md)  
 
 ## Overview｜概覽  
 
