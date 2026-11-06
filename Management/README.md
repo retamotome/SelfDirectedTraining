@@ -1,6 +1,6 @@
 # Auspicious Academy of Management  <br>吉祥院管理學院  
 
-[![Management](./img/mgt_cover.png)](README.md)  
+[![Management](./img/mgt_cover.png)](../README.md)  
 
 ## Overview｜概覽  
 
