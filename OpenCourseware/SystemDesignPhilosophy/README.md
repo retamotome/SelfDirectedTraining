@@ -1,6 +1,6 @@
 # 以四大關鍵思維看系統設計哲學
 
-[![系統設計哲學](./img/SystemDesignPhilosophy.png)](README.md)  
+[![系統設計哲學](./img/SystemDesignPhilosophy.png)](../../README.md)  
 
 # 課程簡介
 

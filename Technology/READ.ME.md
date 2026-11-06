@@ -1,6 +1,6 @@
 # Auspicious Science and Technology Research Laboratory  <br>吉祥院科學與科技研究室  
 
-[![Science and Technology](./img/tech_cover.png)](READ.ME.md)  
+[![Science and Technology](./img/tech_cover.png)](../README.md)  
 
 ## Overview｜概覽  
 

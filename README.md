@@ -1,6 +1,6 @@
 # Reta's Self-Directed Learning Guide  <br>Reta 的自主學習指南  
 
-[![Self-Directed Training](./img/SelfDirectedTraining.png)](README.md)  
+[![Self-Directed Training](./img/SelfDirectedTraining.png)](https://github.com/retamotome)  
 
 ## Overview｜概覽  
 
