@@ -15,8 +15,8 @@
 + Four Stages｜商業需求定義的四個階段
   + [Identification｜識別](material/RequirementIdentification.md)
   + [General Considerations｜通用考量項目](material/GeneralConsiderations.md)
-  + Requirement Prioritization. 需求優先排序
-  + Acceptance Test Initialization. 驗收測試初始化
+  + Requirement Prioritization｜需求優先排序
+  + Acceptance Test Initialization｜驗收測試初始化
 + Guideline and Example｜實戰指引
 
 ## Self-Training｜自主訓練
