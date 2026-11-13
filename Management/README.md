@@ -1,4 +1,4 @@
-# Auspicious Academy of Management  <br>吉祥院管理學院  
+# Auspiciousness Academy of Management  <br>吉祥院管理學院  
 
 [![Management](./img/mgt_cover.png)](../README.md)  
 

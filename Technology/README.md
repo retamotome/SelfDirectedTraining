@@ -1,4 +1,4 @@
-# Auspicious Science and Technology Research Laboratory  <br>吉祥院科學與科技研究室  
+# Auspiciousness Science and Technology Research Laboratory  <br>吉祥院科學與科技研究室  
 
 [![Science and Technology](./img/tech_cover.png)](../README.md)  
 

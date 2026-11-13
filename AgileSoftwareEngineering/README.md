@@ -1,4 +1,4 @@
-# Auspicious Software Engineering Research Center  <br>吉祥院軟體工程研究中心  
+# Auspiciousness Software Engineering Research Center  <br>吉祥院軟體工程研究中心  
 
 [![Software Engineering](./img/sw_cover.png)](../README.md)  
 
