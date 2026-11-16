@@ -97,7 +97,7 @@ Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團�
 + [何飛鵬 - 社長的筆記本 (痞客邦)](https://feipengho.pixnet.net/blog)  
 + [何飛鵬 (經理人)](https://www.managertoday.com.tw/columnist/view/53)  
 
-> [!note]  
+> :information_source: Note    
 > 何飛鵬先生所採用與分享的管理方式，適用 **低成熟度** 類型團隊，而並**不**適用高成熟度類型團隊。   
 > The management style adopted and shared by Mr. He is suitable for teams with a **low** level of maturity, but it is **not** suitable for highly mature teams.
 
