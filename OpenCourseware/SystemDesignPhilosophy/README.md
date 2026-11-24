@@ -29,30 +29,30 @@ This course explores system design through systems thinking, software engineerin
 
 | Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
-| <a href="" target="_blank"><image src="" width="200"></a> | [ Architecture Thinking、系統架構設計]()   | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [架構審查（Architecture Review）]()   | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [需求分析]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [打造 AI Agent]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [打造 Enterprise Architecture]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [ Architecture Thinking、系統架構設計]()   | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [架構審查（Architecture Review）]()   | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [需求分析]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [打造 AI Agent]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [打造 Enterprise Architecture]()  | |
 
 ## Season 02 管理哲學  
 
 | Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
-| <a href="" target="_blank"><image src="" width="200"></a> | [專案管理哲學]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [系統重構]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [資安哲學]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [雲端架構]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [CTO 對談]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [專案管理哲學]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [系統重構]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [資安哲學]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [雲端架構]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [CTO 對談]()  | |
 
     
 ## 番外篇  
 
 | Video 影片 | Description 說明 | Date 日期 |
 |:----|:----------|:--|
-| <a href="" target="_blank"><image src="" width="200"></a> | [安倍晴明 × 服部半藏：五芒星系統架構之道]()  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]()<br>必修通識課：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)  | |
-| <a href="" target="_blank"><image src="" width="200"></a> | [敏捷江湖：以四大關鍵思維看敏捷]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [安倍晴明 × 服部半藏：五芒星系統架構之道]()  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]()<br>必修通識課：[Agile Team：Identification and Management｜敏捷團隊：識別與管理](https://github.com/retamotome/SelfDirectedTraining/blob/main/AgileSoftwareEngineering/2026-02-22_AgileTeam/README.md)  | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | [敏捷江湖：以四大關鍵思維看敏捷]()  | |
 
 ## 實戰演練  
 
@@ -60,7 +60,7 @@ This course explores system design through systems thinking, software engineerin
 |:----|:----------|:--|
 | <a href="2026-07-30.md" target="_blank"><image src="img/2026-07-30.png" width="200"></a> | [碧海潮生曲的系統架構學 -- 從《射鵰英雄傳》看《易經》、五音、五行到狀態機](2026-07-30.md)<br>:bookmark:《碧海潮生曲》呈現一種典型且常見的系統陣亡模式：正回授共振崩潰。 | 2026-07-30 |
 | <a href="2026-10-23.md" target="_blank"><image src="img/2026-10-23.png" width="200"></a> | 從奇門遁甲到決策工程學（一）<br>[將古代謀略模型轉化為可驗證的 Adaptive Decision Framework](2026-10-23.md) | 2026-10-23 |
-| <a href="" target="_blank"><image src="" width="200"></a> | 從奇門遁甲到決策工程學（二）<br>[從控制理論到自我進化決策架構]() | |
+| <a href="" target="_blank"><image src="../img/InPreparation.png" width="200"></a> | 從奇門遁甲到決策工程學（二）<br>[從控制理論到自我進化決策架構]() | |
 
    
 ---
