@@ -24,13 +24,13 @@ All members of Agile teams are required to adhere to the Agile Code of Conduct, 
 :star: [Project Initiation Phase｜專案啟動階段](https://github.com/retamotome/AgileSoftwareProjectGuide/blob/main/ProjectInitiationPhase/README.md)   
 Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團隊成熟度演化模型]()
 
-+ [Agility : How to navigate the unknown and seize opportunity in a world of disruption](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
-  + [敏捷：在遽變時代，從國家到企業如何超前部署？](https://www.books.com.tw/products/0010997823)  
-+ [More Effective Agile: A Roadmap for Software Leaders](https://www.amazon.com/More-Effective-Agile-Roadmap-Software/dp/1733518215)  
-	+ [敏捷升級：28個提升敏捷成效的關鍵原則](https://www.books.com.tw/products/0010944453)   
-	+ [卓有成效的敏捷(簡體中文)](https://www.books.com.tw/products/CN11727778)  
-+ [Coaching Agile Teams 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
-  + [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南](https://www.books.com.tw/products/0010924356)  
++ [Agility : How to navigate the unknown and seize opportunity in a world of disruption, 2019](https://www.amazon.com/Agility-Navigate-Seize-Opportunity-Disruption/dp/193971415X)     
+  + [敏捷：在遽變時代，從國家到企業如何超前部署？, 2024](https://www.books.com.tw/products/0010997823)  
++ [More Effective Agile: A Roadmap for Software Leaders, 2019](https://www.amazon.com/More-Effective-Agile-Roadmap-Software/dp/1733518215)  
+	+ [敏捷升級：28個提升敏捷成效的關鍵原則, 2022](https://www.books.com.tw/products/0010944453)   
+	+ [卓有成效的敏捷(簡體中文), 2021](https://www.books.com.tw/products/CN11727778)  
++ [Coaching Agile Teams, 2010](https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)  
+  + [教練敏捷團隊：ScrumMaster、敏捷教練及專案經理轉型的最佳指南, 2022](https://www.books.com.tw/products/0010924356)  
 + 2025-08-12 [後敏捷時代的組織再造：為何淘汰Scrum Master是第一步？AI與系統化賦能的實戰指南](https://www.find.org.tw/indus_trend/browse/09db48ac70d0e66e03f2d9c002c014cc)  
 
 
@@ -82,12 +82,12 @@ Next Course｜接續課程：[五行陣：Authority Matrix Framework 下的團�
 
 ### Further Reading｜延伸閱讀
 
-+ [Radical Candor 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)  
-  + [徹底坦率：一種有溫度而真誠的領導](https://www.books.com.tw/products/0010816772)  
-+ [Klartext: Sagen, was Sache ist. Machen, was weiterbringt. 2015](https://www.amazon.com/Klartext/dp/3869366583)  
-  + [職場裡為什麼不能有話直說？](https://www.books.com.tw/products/0010983701)  
-+ [プロの思考整理術 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
-  + [解決問題， 先從理出盲點開始！](https://www.books.com.tw/products/E050154370)  
++ [Radical Candor, 2022](https://www.amazon.com/Radical-Candor-Scott-Hardcover-2022/dp/B09V5HVK3N/)  
+  + [徹底坦率：一種有溫度而真誠的領導, 2019](https://www.books.com.tw/products/0010816772)  
++ [Klartext: Sagen, was Sache ist. Machen, was weiterbringt, 2015](https://www.amazon.com/Klartext/dp/3869366583)  
+  + [職場裡為什麼不能有話直說？, 2024](https://www.books.com.tw/products/0010983701)  
++ [プロの思考整理術, 2021](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%81%AE%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86%E8%A1%93-%E5%92%8C%E4%BB%81-%E9%81%94%E4%B9%9F/dp/4761275790)  
+  + [解決問題， 先從理出盲點開始！, 2023](https://www.books.com.tw/products/E050154370)  
 
 <details>
 <summary>何飛鵬筆記系列</summary>	
